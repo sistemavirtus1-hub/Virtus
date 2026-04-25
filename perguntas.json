@@ -1,0 +1,3494 @@
+{
+  "perguntas": {
+    "Informática": [
+      {
+        "pergunta": "Qual desses aplicativos é um antivírus?",
+        "opcoes": [
+          "Avast",
+          "Word",
+          "Excel",
+          "PowerPoint"
+        ],
+        "resposta": "Avast",
+        "nivel": "facil",
+        "id": 1,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Para que serve o microsoft powerpoint?",
+        "opcoes": [
+          "Criar apresentações",
+          "Editar textos",
+          "Criar planilhas",
+          "Navegar na internet"
+        ],
+        "resposta": "Criar apresentações",
+        "nivel": "facil",
+        "id": 2,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Para que serve o programa microsoft word?",
+        "opcoes": [
+          "Editar textos",
+          "Criar planilhas",
+          "Fazer apresentações",
+          "Navegar na internet"
+        ],
+        "resposta": "Editar textos",
+        "nivel": "facil",
+        "id": 3,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual a função do atalho ctrl + c no windows?",
+        "opcoes": [
+          "Copiar",
+          "Colar",
+          "Salvar",
+          "Imprimir"
+        ],
+        "resposta": "Copiar",
+        "nivel": "facil",
+        "id": 4,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual a principal função do microsoft excel?",
+        "opcoes": [
+          "Criar planilhas",
+          "Editar textos",
+          "Fazer apresentações",
+          "Navegar na internet"
+        ],
+        "resposta": "Criar planilhas",
+        "nivel": "facil",
+        "id": 5,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é um arquivo?",
+        "opcoes": [
+          "Conjunto de dados armazenados",
+          "Programa do Windows",
+          "Dispositivo de hardware",
+          "Tipo de internet"
+        ],
+        "resposta": "Conjunto de dados armazenados",
+        "nivel": "facil",
+        "id": 6,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual desses é um navegador de internet?",
+        "opcoes": [
+          "Google Chrome",
+          "Microsoft Word",
+          "Windows Media Player",
+          "Adobe Photoshop"
+        ],
+        "resposta": "Google Chrome",
+        "nivel": "facil",
+        "id": 7,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual desses abre o sistema de cftv?",
+        "opcoes": [
+          "Software de monitoramento",
+          "Bloco de notas no ambiente de trabalho",
+          "Calculadora (procedimento padrão)",
+          "Paint (procedimento padrão)"
+        ],
+        "resposta": "Software de monitoramento",
+        "nivel": "facil",
+        "id": 9,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Para pesquisar um nome em uma lista no excel, qual atalho usar?",
+        "opcoes": [
+          "Ctrl + L",
+          "Ctrl + C",
+          "Ctrl + V",
+          "Ctrl + P"
+        ],
+        "resposta": "Ctrl + L",
+        "nivel": "medio",
+        "id": 10,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a função do atalho ctrl + v no windows?",
+        "opcoes": [
+          "Colar",
+          "Copiar",
+          "Salvar",
+          "Imprimir"
+        ],
+        "resposta": "Colar",
+        "nivel": "medio",
+        "id": 11,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual botão apaga letras à esquerda do cursor?",
+        "opcoes": [
+          "Backspace",
+          "Delete",
+          "Enter",
+          "Shift"
+        ],
+        "resposta": "Backspace",
+        "nivel": "medio",
+        "id": 12,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que acontece ao desligar o computador diretamente na tomada?",
+        "opcoes": [
+          "Pode danificar o sistema",
+          "Economiza energia",
+          "Acelera o computador",
+          "Melhora a performance"
+        ],
+        "resposta": "Pode danificar o sistema",
+        "nivel": "medio",
+        "id": 13,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Onde ficam os arquivos salvos no computador?",
+        "opcoes": [
+          "No disco rígido",
+          "Na memória RAM",
+          "No processador",
+          "Na placa de vídeo"
+        ],
+        "resposta": "No disco rígido",
+        "nivel": "medio",
+        "id": 14,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual das tarefas abaixo não pode ser realizada diretamente no microsoft excel?",
+        "opcoes": [
+          "Criar gráficos a partir de dados",
+          "Aplicar filtros em tabelas",
+          "Editar imagens com múltiplas camadas",
+          "Calcular fórmulas matemáticas"
+        ],
+        "resposta": "Editar imagens com múltiplas camadas",
+        "nivel": "medio",
+        "id": 15,
+        "categoria": "Informática",
+        "correta": 2
+      },
+      {
+        "pergunta": "Para criar um pdf a partir do excel, o procedimento correto é?",
+        "opcoes": [
+          "Salvar como PDF",
+          "Imprimir em papel",
+          "Copiar e colar",
+          "Enviar por e-mail"
+        ],
+        "resposta": "Salvar como PDF",
+        "nivel": "medio",
+        "id": 16,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual é a finalidade técnica do botão capslock no teclado?",
+        "opcoes": [
+          "Digitar letras maiúsculas",
+          "Digitar números",
+          "Abrir menu",
+          "Salvar arquivo"
+        ],
+        "resposta": "Digitar letras maiúsculas",
+        "nivel": "medio",
+        "id": 17,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual comando é usado no teclado para inserir um @?",
+        "opcoes": [
+          "Shift + 2",
+          "Ctrl + C",
+          "Shift + A",
+          "Alt + F4"
+        ],
+        "resposta": "Shift + 2",
+        "nivel": "medio",
+        "id": 18,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a função do atalho ctrl + z?",
+        "opcoes": [
+          "Desfazer última ação",
+          "Refazer ação",
+          "Salvar documento",
+          "Fechar janela"
+        ],
+        "resposta": "Desfazer última ação",
+        "nivel": "medio",
+        "id": 19,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa 'ram' em um computador?",
+        "opcoes": [
+          "Memória de acesso rápido",
+          "Disco rígido",
+          "Processador",
+          "Placa de vídeo"
+        ],
+        "resposta": "Memória de acesso rápido",
+        "nivel": "dificil",
+        "id": 20,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Para salvar um documento no windows, qual atalho usar?",
+        "opcoes": [
+          "Ctrl + S",
+          "Ctrl + P",
+          "Ctrl + O",
+          "Ctrl + N"
+        ],
+        "resposta": "Ctrl + S",
+        "nivel": "dificil",
+        "id": 21,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual programa é usado para compactar arquivos?",
+        "opcoes": [
+          "WinRAR",
+          "Word",
+          "Excel",
+          "Paint"
+        ],
+        "resposta": "WinRAR",
+        "nivel": "dificil",
+        "id": 22,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Para selecionar todo texto de um documento, qual atalho usar?",
+        "opcoes": [
+          "Ctrl + A",
+          "Ctrl + T",
+          "Ctrl + S",
+          "Ctrl + D"
+        ],
+        "resposta": "Ctrl + A",
+        "nivel": "dificil",
+        "id": 23,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual dispositivo conecta o computador à internet via cabo?",
+        "opcoes": [
+          "Placa de rede",
+          "Placa de vídeo",
+          "Placa de som",
+          "Placa de HD"
+        ],
+        "resposta": "Placa de rede",
+        "nivel": "dificil",
+        "id": 24,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Conceitualmente, como se define um backup?",
+        "opcoes": [
+          "Cópia de segurança",
+          "Tipo de vírus",
+          "Software de e-mail",
+          "Pasta do Windows"
+        ],
+        "resposta": "Cópia de segurança",
+        "nivel": "dificil",
+        "id": 25,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "Conceitualmente, como se define um sistema operacional?",
+        "opcoes": [
+          "Software que gerencia o computador",
+          "Hardware de memória",
+          "Tipo de processador",
+          "Programa de antivírus"
+        ],
+        "resposta": "Software que gerencia o computador",
+        "nivel": "dificil",
+        "id": 26,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual extensão de arquivo indica uma imagem?",
+        "opcoes": [
+          ".jpg",
+          ".txt",
+          ".exe",
+          ".pdf"
+        ],
+        "resposta": ".jpg",
+        "nivel": "dificil",
+        "id": 27,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual das funções abaixo não pertence ao microsoft powerpoint?",
+        "opcoes": [
+          "Criar apresentações com slides",
+          "Editar textos com formatação avançada",
+          "Inserir animações e transições",
+          "Exportar arquivos para PDF"
+        ],
+        "resposta": "Editar textos com formatação avançada",
+        "nivel": "dificil",
+        "id": 28,
+        "categoria": "Informática",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual desses dispositivos é considerado um hardware de entrada?",
+        "opcoes": [
+          "Desenvolver apresentações em slides",
+          "Realizar edição avançada de textos",
+          "Inserir animações e transições",
+          "Exportar documentos para formato PDF"
+        ],
+        "resposta": "Teclado",
+        "nivel": "dificil",
+        "id": 29,
+        "categoria": "Informática",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa a sigla pdf?",
+        "opcoes": [
+          "Portable Document Format",
+          "Print Document File",
+          "Personal Data Format",
+          "Public Document Format"
+        ],
+        "resposta": "Portable Document Format",
+        "nivel": "dificil",
+        "id": 30,
+        "categoria": "Informática",
+        "correta": 0
+      }
+    ],
+    "Controle de Acesso": [
+      {
+        "pergunta": "Para que serve o sistema de controle de acesso?",
+        "opcoes": [
+          "Monitorar o fluxo de entrada e saída",
+          "Registrar a jornada dos funcionários",
+          "Realizar o backup de dados do sistema",
+          "Efetuar chamadas telefônicas internas"
+        ],
+        "resposta": "Controlar o fluxo de entrada e saída de veículos e pessoas",
+        "nivel": "facil",
+        "id": 31,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Um prestador diz 'sempre trabalhei aqui' mas não há registro. o que fazer?",
+        "opcoes": [
+          "Solicitar que aguarde e confirmar com o responsável",
+          "Permitir acesso pois já prestou serviço antes",
+          "Permitir entrada e registrar manualmente depois",
+          "Liberar se estiver uniformizado com crachá"
+        ],
+        "resposta": "Solicitar que aguarde e confirmar com o responsável",
+        "nivel": "facil",
+        "id": 32,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual a ordem correta de ligação em caso de incêndio?",
+        "opcoes": [
+          "Bombeiro, Central de monitoramento, Administração, Supervisão",
+          "Administração, Supervisão, Central, Bombeiro no ambiente de trabalho",
+          "Central de monitoramento, Administração, Bombeiro, Supervisão",
+          "Supervisão, Bombeiro, Administração, Central no ambiente de trabalho"
+        ],
+        "resposta": "Bombeiro, Central de monitoramento, Administração, Supervisão",
+        "nivel": "facil",
+        "id": 33,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é reconhecimento de placa de veículo (lpr)?",
+        "opcoes": [
+          "Sistema de leitura de placas",
+          "Registro manual de veículos",
+          "Controle de pedestres",
+          "Monitoramento de câmeras"
+        ],
+        "resposta": "Sistema de leitura de placas",
+        "nivel": "facil",
+        "id": 34,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Técnico autorizado se recusa a se identificar. qual a conduta correta?",
+        "opcoes": [
+          "Recusar o acesso até que apresente documento oficial com foto",
+          "Permitir acesso se fornecer nome e apartamento no ambiente de trabalho",
+          "Registrar nome parcial e liberar como prestador eventual",
+          "Autorizar anotando apenas o nome da empresa no ambiente de trabalho"
+        ],
+        "resposta": "Recusar o acesso até que apresente documento oficial com foto",
+        "nivel": "facil",
+        "id": 35,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual o procedimento ao cadastrar um visitante com horário agendado?",
+        "opcoes": [
+          "Solicitar documento oficial com foto e cadastrar no sistema",
+          "Liberar o acesso e registrar apenas o nome no ambiente de trabalho",
+          "Perguntar nome completo e preencher sem documento",
+          "Confirmar com o morador e dispensar o registro no ambiente de trabalho"
+        ],
+        "resposta": "Solicitar documento oficial com foto e cadastrar no sistema",
+        "nivel": "facil",
+        "id": 36,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Entregador tenta subir ao apartamento alegando 'já ser de casa'. como proceder?",
+        "opcoes": [
+          "Seguir o procedimento padrão e consultar o morador",
+          "Permitir entrada pois é conhecido no ambiente de trabalho",
+          "Deixar subir acompanhado até o andar no ambiente de trabalho",
+          "Deixar subir apenas com crachá da empresa"
+        ],
+        "resposta": "Seguir o procedimento padrão e consultar o morador",
+        "nivel": "facil",
+        "id": 37,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Visitante se identifica mas não há autorização no sistema. qual o procedimento?",
+        "opcoes": [
+          "Consultar o responsável para confirmar entrada",
+          "Permitir entrada com base nos dados fornecidos",
+          "Solicitar que registre nome no livro e libere",
+          "Recusar e mandar retornar outro dia"
+        ],
+        "resposta": "Consultar o responsável para confirmar entrada",
+        "nivel": "facil",
+        "id": 38,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual o número da samu?",
+        "opcoes": [
+          "192",
+          "190",
+          "193",
+          "911"
+        ],
+        "resposta": "192",
+        "nivel": "medio",
+        "id": 39,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Quais são os 4 pilares básicos para liberação de acesso?",
+        "opcoes": [
+          "Identificação, autorização, registro e confirmação de documento",
+          "Rapidez, agilidade, facilidade e confiança no ambiente de trabalho",
+          "Documento, uniforme, veículo e horário no ambiente de trabalho",
+          "Conhecimento, reconhecimento, aviso e autorização no ambiente de trabalho"
+        ],
+        "resposta": "Identificação, autorização, registro e confirmação de documento",
+        "nivel": "medio",
+        "id": 40,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "É permitido liberar veículo apenas por reconhecimento de voz?",
+        "opcoes": [
+          "Não, sempre deve haver verificação formal",
+          "Sim, em todos os casos no ambiente de trabalho",
+          "Somente à noite no ambiente de trabalho",
+          "Apenas para moradores no ambiente de trabalho"
+        ],
+        "resposta": "Não, sempre deve haver verificação formal",
+        "nivel": "medio",
+        "id": 41,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual o número do bombeiro?",
+        "opcoes": [
+          "193",
+          "190",
+          "192",
+          "911"
+        ],
+        "resposta": "193",
+        "nivel": "medio",
+        "id": 42,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "O lpr não reconheceu a placa de um veículo. qual a ação do porteiro?",
+        "opcoes": [
+          "Registrar manualmente e verificar autorização",
+          "Liberar a entrada imediatamente no ambiente de trabalho",
+          "Impedir a entrada sem verificação no ambiente de trabalho",
+          "Ignorar e deixar passar no ambiente de trabalho"
+        ],
+        "resposta": "Registrar manualmente e verificar autorização",
+        "nivel": "medio",
+        "id": 43,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Entregador de aplicativo chega de madrugada sem registro. qual procedimento?",
+        "opcoes": [
+          "Contatar o morador para confirmação",
+          "Liberar a entrada no ambiente de trabalho",
+          "Negar a entrada no ambiente de trabalho",
+          "Chamar segurança no ambiente de trabalho"
+        ],
+        "resposta": "Contatar o morador para confirmação",
+        "nivel": "medio",
+        "id": 44,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual o número da polícia?",
+        "opcoes": [
+          "190",
+          "192",
+          "193",
+          "911"
+        ],
+        "resposta": "190",
+        "nivel": "medio",
+        "id": 45,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em caso de visitantes sem cadastro prévio, qual a primeira ação?",
+        "opcoes": [
+          "Solicitar documento de identificação",
+          "Liberar a entrada no ambiente de trabalho",
+          "Negar a entrada imediatamente",
+          "Chamar a polícia no ambiente de trabalho"
+        ],
+        "resposta": "Solicitar documento de identificação",
+        "nivel": "medio",
+        "id": 46,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "No recebimento de encomendas, qual procedimento é o mais adequado?",
+        "opcoes": [
+          "Registrar e armazenar corretamente",
+          "Apenas registrar no sistema",
+          "Somente guardar em local seguro",
+          "Entregar diretamente ao destinatário"
+        ],
+        "resposta": "Registrar e armazenar corretamente",
+        "nivel": "dificil",
+        "id": 47,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Visitante alega ser autoridade e exige entrada sem se identificar. como proceder?",
+        "opcoes": [
+          "Solicitar identificação oficial e seguir protocolo",
+          "Liberar imediatamente no ambiente de trabalho",
+          "Chamar a polícia no ambiente de trabalho",
+          "Negar a entrada sem questionar no ambiente de trabalho"
+        ],
+        "resposta": "Solicitar identificação oficial e seguir protocolo",
+        "nivel": "dificil",
+        "id": 48,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao ser questionado por morador sobre procedimentos de segurança, qual deve ser a conduta?",
+        "opcoes": [
+          "Manter postura profissional e cumprir os protocolos",
+          "Ajustar o procedimento conforme a situação",
+          "Priorizar a satisfação do morador no ambiente de trabalho",
+          "Encerrar o atendimento para evitar conflito"
+        ],
+        "resposta": "Manter postura profissional e cumprir os protocolos",
+        "nivel": "dificil",
+        "id": 49,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Veículo de aplicativo solicita acesso para embarque. qual a conduta?",
+        "opcoes": [
+          "Manter fora da área interna e acionar o morador",
+          "Autorizar entrada para agilizar o atendimento",
+          "Permitir acesso parcial até área comum",
+          "Liberar mediante identificação do condutor"
+        ],
+        "resposta": "Manter fora da área interna e acionar o morador",
+        "nivel": "dificil",
+        "id": 50,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Morador quer liberar um amigo mas não fornece os dados completos. o que fazer?",
+        "opcoes": [
+          "Solicitar os dados completos antes de autorizar",
+          "Liberar quando a pessoa chegar no ambiente de trabalho",
+          "Anotar apenas o primeiro nome no ambiente de trabalho",
+          "Dispensar o cadastro por ser amigo do morador"
+        ],
+        "resposta": "Solicitar os dados completos antes de autorizar",
+        "nivel": "dificil",
+        "id": 51,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Uma autorização de acesso individual permite a entrada de quantas pessoas?",
+        "opcoes": [
+          "Somente o indivíduo autorizado",
+          "Demais acompanhantes identificados",
+          "Quantidade definida pelo morador",
+          "Desde que haja registro na portaria"
+        ],
+        "resposta": "Somente o indivíduo autorizado",
+        "nivel": "dificil",
+        "id": 52,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a principal função do livro de ocorrências?",
+        "opcoes": [
+          "Assegurar registro contínuo e rastreável do plantão",
+          "Documentar apenas situações fora da rotina",
+          "Formalizar informações conforme demanda",
+          "Controlar atividades operacionais diárias"
+        ],
+        "resposta": "Assegurar registro contínuo e rastreável do plantão",
+        "nivel": "dificil",
+        "id": 53,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Quando é permitido deixar a portaria sem supervisão?",
+        "opcoes": [
+          "Nunca, deve sempre haver alguém no posto",
+          "Durante a madrugada no ambiente de trabalho",
+          "Quando não há movimento no ambiente de trabalho",
+          "Para ir ao banheiro rapidamente"
+        ],
+        "resposta": "Nunca, deve sempre haver alguém no posto",
+        "nivel": "dificil",
+        "id": 54,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "Menor de idade tenta entrar sozinho. qual o procedimento?",
+        "opcoes": [
+          "Contatar o responsável do apartamento para autorização",
+          "Liberar se ele tiver documento no ambiente de trabalho",
+          "Negar a entrada no ambiente de trabalho",
+          "Deixar esperar na portaria no ambiente de trabalho"
+        ],
+        "resposta": "Contatar o responsável do apartamento para autorização",
+        "nivel": "dificil",
+        "id": 55,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual documento não é aceito como identificação válida?",
+        "opcoes": [
+          "Carteirinha de estudante",
+          "RG (procedimento padrão)",
+          "CNH (procedimento padrão)",
+          "Passaporte (procedimento padrão)"
+        ],
+        "resposta": "Carteirinha de estudante",
+        "nivel": "dificil",
+        "id": 56,
+        "categoria": "Controle de Acesso",
+        "correta": 0
+      }
+    ],
+    "CFTV": [
+      {
+        "pergunta": "Qual é a conduta correta em relação às gravações?",
+        "opcoes": [
+          "Manter sigilo e seguir protocolo de acesso",
+          "Compartilhar com qualquer pessoa",
+          "Excluir gravações antigas no ambiente de trabalho",
+          "Alterar as gravações no ambiente de trabalho"
+        ],
+        "resposta": "Manter sigilo e seguir protocolo de acesso",
+        "nivel": "facil",
+        "id": 57,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Por que é importante alternar entre câmeras durante acompanhamentos?",
+        "opcoes": [
+          "Para cobrir todas as áreas e evitar pontos cegos",
+          "Para economizar energia no ambiente de trabalho",
+          "Para testar as câmeras no ambiente de trabalho",
+          "Para evitar desgaste do equipamento no ambiente de trabalho"
+        ],
+        "resposta": "Para cobrir todas as áreas e evitar pontos cegos",
+        "nivel": "facil",
+        "id": 58,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa 'ponto cego' nas câmeras?",
+        "opcoes": [
+          "Área não coberta pela visão das câmeras",
+          "Câmera com defeito no ambiente de trabalho",
+          "Câmera de alta definição no ambiente de trabalho",
+          "Área com excesso de iluminação"
+        ],
+        "resposta": "Área não coberta pela visão das câmeras",
+        "nivel": "facil",
+        "id": 59,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Quando uma câmera apresenta falha, qual o procedimento correto?",
+        "opcoes": [
+          "Registrar a falha e acionar manutenção",
+          "Tentar consertar pessoalmente",
+          "Ignorar e continuar monitorando",
+          "Desligar todas as câmeras"
+        ],
+        "resposta": "Registrar a falha e acionar manutenção",
+        "nivel": "facil",
+        "id": 60,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "No término do turno, quais informações registrar no relatório?",
+        "opcoes": [
+          "Ocorrências, falhas e situações atípicas",
+          "Apenas horário de entrada e saída",
+          "Número de pessoas que passaram",
+          "Tempo de pausa para café no ambiente de trabalho"
+        ],
+        "resposta": "Ocorrências, falhas e situações atípicas",
+        "nivel": "facil",
+        "id": 61,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Morador solicita imagens de vídeo. o que fazer?",
+        "opcoes": [
+          "Encaminhar a solicitação para a administração",
+          "Fornecer as imagens imediatamente no ambiente de trabalho",
+          "Negar o acesso no ambiente de trabalho",
+          "Alterar as imagens no ambiente de trabalho"
+        ],
+        "resposta": "Encaminhar a solicitação para a administração",
+        "nivel": "facil",
+        "id": 62,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é um sistema de monitoramento por câmera (cftv)?",
+        "opcoes": [
+          "Sistema de vigilância por vídeo",
+          "Controle de acesso de pessoas",
+          "Sistema de alarme",
+          "Comunicação por rádio"
+        ],
+        "resposta": "Sistema de vigilância por vídeo",
+        "nivel": "facil",
+        "id": 63,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Prestador se desloca para área sem câmeras. qual a conduta correta?",
+        "opcoes": [
+          "Comunicar imediatamente pelo rádio",
+          "Ignorar a situação no ambiente de trabalho",
+          "Desligar outras câmeras no ambiente de trabalho",
+          "Alterar o percurso do prestador"
+        ],
+        "resposta": "Comunicar imediatamente pelo rádio",
+        "nivel": "facil",
+        "id": 64,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao assumir o plantão, qual a primeira ação do operador de cftv?",
+        "opcoes": [
+          "Verificar o funcionamento de todas as câmeras",
+          "Ler o relatório do turno anterior no ambiente de trabalho",
+          "Fazer café no ambiente de trabalho",
+          "Ajustar a cadeira no ambiente de trabalho"
+        ],
+        "resposta": "Verificar o funcionamento de todas as câmeras",
+        "nivel": "facil",
+        "id": 65,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Veículo com placa não lida pelo sistema. qual a ação do operador?",
+        "opcoes": [
+          "Comunicar imediatamente à portaria",
+          "Ignorar a situação no ambiente de trabalho",
+          "Desligar o sistema no ambiente de trabalho",
+          "Alterar a gravação no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar imediatamente à portaria",
+        "nivel": "medio",
+        "id": 66,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Movimentação suspeita em área restrita. qual a primeira ação?",
+        "opcoes": [
+          "Comunicar imediatamente à segurança",
+          "Ignorar por ser área restrita",
+          "Desligar as câmeras da área",
+          "Esperar para ver o que acontece"
+        ],
+        "resposta": "Comunicar imediatamente à segurança",
+        "nivel": "medio",
+        "id": 67,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O operador deve monitorar somente entradas e saídas?",
+        "opcoes": [
+          "Não, deve monitorar todas as áreas",
+          "Sim, apenas essas são importantes",
+          "Somente durante o dia no ambiente de trabalho",
+          "Apenas à noite no ambiente de trabalho"
+        ],
+        "resposta": "Não, deve monitorar todas as áreas",
+        "nivel": "medio",
+        "id": 68,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é um relatório de divergência em cftv?",
+        "opcoes": [
+          "Documento que registra situações fora do normal",
+          "Relatório de manutenção no ambiente de trabalho",
+          "Lista de equipamentos no ambiente de trabalho",
+          "Controle de horários no ambiente de trabalho"
+        ],
+        "resposta": "Documento que registra situações fora do normal",
+        "nivel": "medio",
+        "id": 69,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a função de um sistema de backup de gravações?",
+        "opcoes": [
+          "Garantir a preservação das imagens em caso de falha",
+          "Aumentar a velocidade do sistema no ambiente de trabalho",
+          "Melhorar a qualidade da imagem no ambiente de trabalho",
+          "Reduzir custos no ambiente de trabalho"
+        ],
+        "resposta": "Garantir a preservação das imagens em caso de falha",
+        "nivel": "medio",
+        "id": 70,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a importância de monitorar áreas de pouca movimentação?",
+        "opcoes": [
+          "Prevenir invasões e atividades suspeitas",
+          "Economizar tempo do operador",
+          "Evitar desgaste das câmeras",
+          "Cumprir protocolo burocrático"
+        ],
+        "resposta": "Prevenir invasões e atividades suspeitas",
+        "nivel": "medio",
+        "id": 71,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Porta de emergência aberta sem autorização. qual ação seguir?",
+        "opcoes": [
+          "Comunicar segurança e registrar a ocorrência",
+          "Fechar a porta pessoalmente no ambiente de trabalho",
+          "Ignorar por ser emergência no ambiente de trabalho",
+          "Aguardar alguém fechar no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar segurança e registrar a ocorrência",
+        "nivel": "medio",
+        "id": 72,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Câmera essencial com imagem escura. o que fazer imediatamente?",
+        "opcoes": [
+          "Registrar e acionar manutenção",
+          "Tentar ajustar o contraste",
+          "Ignorar até o próximo turno",
+          "Desligar a câmera"
+        ],
+        "resposta": "Registrar e acionar manutenção",
+        "nivel": "medio",
+        "id": 73,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O operador deve usar rádio para incidentes de qual natureza?",
+        "opcoes": [
+          "Todos os incidentes relevantes à segurança",
+          "Apenas incidentes graves no ambiente de trabalho",
+          "Nenhum incidente no ambiente de trabalho",
+          "Apenas durante a noite no ambiente de trabalho"
+        ],
+        "resposta": "Todos os incidentes relevantes à segurança",
+        "nivel": "medio",
+        "id": 74,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que fazer ao perceber que alguém vandaliza uma câmera?",
+        "opcoes": [
+          "Comunicar imediatamente a segurança e registrar",
+          "Sair para confrontar a pessoa no ambiente de trabalho",
+          "Aguardar até terminar no ambiente de trabalho",
+          "Desligar a câmera no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar imediatamente a segurança e registrar",
+        "nivel": "dificil",
+        "id": 75,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual o tempo mínimo de armazenamento das gravações?",
+        "opcoes": [
+          "Mínimo de 30 dias conforme legislação",
+          "7 dias no ambiente de trabalho",
+          "1 ano no ambiente de trabalho",
+          "Para sempre no ambiente de trabalho"
+        ],
+        "resposta": "Mínimo de 30 dias conforme legislação",
+        "nivel": "dificil",
+        "id": 76,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a diferença entre câmera analógica e ip?",
+        "opcoes": [
+          "IP transmite dados pela rede, analógica usa cabo coaxial",
+          "Não há diferença no ambiente de trabalho",
+          "IP é mais barata no ambiente de trabalho",
+          "Analógica tem melhor qualidade no ambiente de trabalho"
+        ],
+        "resposta": "IP transmite dados pela rede, analógica usa cabo coaxial",
+        "nivel": "dificil",
+        "id": 77,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual situação exige atenção imediata no cftv?",
+        "opcoes": [
+          "Invasão ou atividade criminosa",
+          "Pessoas conversando",
+          "Veículos estacionados",
+          "Animais circulando"
+        ],
+        "resposta": "Invasão ou atividade criminosa",
+        "nivel": "dificil",
+        "id": 78,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao detectar fumaça em uma câmera, qual a primeira ação?",
+        "opcoes": [
+          "Acionar o alarme de incêndio e bombeiros",
+          "Verificar se é real no ambiente de trabalho",
+          "Desligar a câmera no ambiente de trabalho",
+          "Aguardar confirmação no ambiente de trabalho"
+        ],
+        "resposta": "Acionar o alarme de incêndio e bombeiros",
+        "nivel": "dificil",
+        "id": 79,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa dvr em sistemas de cftv?",
+        "opcoes": [
+          "Digital Video Recorder — Gravador digital de vídeo",
+          "Direct Video Record no ambiente de trabalho",
+          "Dispositivo de vigilância remota no ambiente de trabalho",
+          "Digital Vision Recorder no ambiente de trabalho"
+        ],
+        "resposta": "Digital Video Recorder — Gravador digital de vídeo",
+        "nivel": "dificil",
+        "id": 80,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Quando utilizar a função ptz (pan-tilt-zoom)?",
+        "opcoes": [
+          "Para acompanhar movimentação suspeita em tempo real",
+          "Sempre que ligar o sistema no ambiente de trabalho",
+          "Apenas durante a noite no ambiente de trabalho",
+          "Para testar câmeras no ambiente de trabalho"
+        ],
+        "resposta": "Para acompanhar movimentação suspeita em tempo real",
+        "nivel": "dificil",
+        "id": 81,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "Conceitualmente, como se define zoom digital em uma câmera?",
+        "opcoes": [
+          "Ampliação de imagem por software com perda de qualidade",
+          "Zoom óptico de alta qualidade no ambiente de trabalho",
+          "Função de gravação no ambiente de trabalho",
+          "Modo noturno no ambiente de trabalho"
+        ],
+        "resposta": "Ampliação de imagem por software com perda de qualidade",
+        "nivel": "dificil",
+        "id": 82,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a importância da iluminação para câmeras de segurança?",
+        "opcoes": [
+          "Essencial para a qualidade da imagem, especialmente à noite",
+          "Não tem importância no ambiente de trabalho",
+          "Apenas decorativa no ambiente de trabalho",
+          "Só importante para câmeras antigas no ambiente de trabalho"
+        ],
+        "resposta": "Essencial para a qualidade da imagem, especialmente à noite",
+        "nivel": "dificil",
+        "id": 83,
+        "categoria": "CFTV",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que fazer se o sistema de gravação parar de funcionar?",
+        "opcoes": [
+          "Registrar imediatamente e acionar suporte técnico",
+          "Reiniciar o computador várias vezes no ambiente de trabalho",
+          "Ignorar e continuar monitorando ao vivo",
+          "Desligar tudo no ambiente de trabalho"
+        ],
+        "resposta": "Registrar imediatamente e acionar suporte técnico",
+        "nivel": "dificil",
+        "id": 84,
+        "categoria": "CFTV",
+        "correta": 0
+      }
+    ],
+    "Vigilante Patrimonial": [
+      {
+        "pergunta": "A principal função da portaria é:?",
+        "opcoes": [
+          "Decorar o local no ambiente de trabalho",
+          "Controlar entrada e saída de pessoas e veículos",
+          "Guardar equipamentos no ambiente de trabalho",
+          "Fazer manutenção no ambiente de trabalho"
+        ],
+        "resposta": "Controlar entrada e saída de pessoas e veículos",
+        "nivel": "facil",
+        "id": 85,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a principal função do vigilante?",
+        "opcoes": [
+          "Prender criminosos no ambiente de trabalho",
+          "Prevenir riscos e proteger pessoas e patrimônios",
+          "Aplicar multas no ambiente de trabalho",
+          "Realizar investigações no ambiente de trabalho"
+        ],
+        "resposta": "Prevenir riscos e proteger pessoas e patrimônios",
+        "nivel": "facil",
+        "id": 86,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O livro de ocorrências serve para:?",
+        "opcoes": [
+          "Guardar documentos pessoais",
+          "Registrar fatos relevantes do serviço",
+          "Fazer escalas de trabalho no ambiente de trabalho",
+          "Controlar visitas no ambiente de trabalho"
+        ],
+        "resposta": "Registrar fatos relevantes do serviço",
+        "nivel": "facil",
+        "id": 87,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em caso de incêndio, a primeira ação é:?",
+        "opcoes": [
+          "Correr do local no ambiente de trabalho",
+          "Avisar a central e acionar o alarme de incêndio",
+          "Desligar as câmeras no ambiente de trabalho",
+          "Esperar os bombeiros no ambiente de trabalho"
+        ],
+        "resposta": "Avisar a central e acionar o alarme de incêndio",
+        "nivel": "facil",
+        "id": 88,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O uso do rádio comunicador serve para:?",
+        "opcoes": [
+          "Conversas pessoais no ambiente de trabalho",
+          "Comunicação rápida entre equipe de segurança",
+          "Ouvir música no ambiente de trabalho",
+          "Apenas registrar ocorrências no ambiente de trabalho"
+        ],
+        "resposta": "Comunicação rápida entre equipe de segurança",
+        "nivel": "facil",
+        "id": 89,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Ao identificar uma situação suspeita, qual deve ser a primeira ação do vigilante?",
+        "opcoes": [
+          "Ignorar (procedimento padrão)",
+          "Comunicar imediatamente à supervisão ou central",
+          "Abordar de forma agressiva no ambiente de trabalho",
+          "Deixar o local no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar imediatamente à supervisão ou central",
+        "nivel": "facil",
+        "id": 90,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que é uma ronda?",
+        "opcoes": [
+          "Um descanso do vigilante no ambiente de trabalho",
+          "Verificação periódica do local para identificar riscos",
+          "Uma reunião de vigilantes no ambiente de trabalho",
+          "Um relatório administrativo no ambiente de trabalho"
+        ],
+        "resposta": "Verificação periódica do local para identificar riscos",
+        "nivel": "facil",
+        "id": 91,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O vigilante deve agir sempre com:?",
+        "opcoes": [
+          "Violência (procedimento padrão)",
+          "Autoridade excessiva",
+          "Educação e profissionalismo",
+          "Indiferença (procedimento padrão)"
+        ],
+        "resposta": "Educação e profissionalismo",
+        "nivel": "facil",
+        "id": 92,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 2
+      },
+      {
+        "pergunta": "O que significa cftv?",
+        "opcoes": [
+          "Central de Fiscalização de Transporte",
+          "Circuito Fechado de Televisão",
+          "Controle Federal de Trânsito",
+          "Centro de Fiscalização de Vigilantes"
+        ],
+        "resposta": "Circuito Fechado de Televisão",
+        "nivel": "facil",
+        "id": 93,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O vigilante pode portar arma de fogo quando?",
+        "opcoes": [
+          "Sempre que quiser no ambiente de trabalho",
+          "Somente em serviço e quando autorizado",
+          "Apenas fora do trabalho no ambiente de trabalho",
+          "Nunca (procedimento padrão)"
+        ],
+        "resposta": "Somente em serviço e quando autorizado",
+        "nivel": "facil",
+        "id": 94,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual equipamento é usado para monitoramento por câmeras?",
+        "opcoes": [
+          "DVR ou NVR",
+          "Impressora",
+          "Scanner",
+          "Notebook"
+        ],
+        "resposta": "DVR ou NVR",
+        "nivel": "medio",
+        "id": 95,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é controle de acesso?",
+        "opcoes": [
+          "Controle financeiro no ambiente de trabalho",
+          "Verificação e autorização de entrada e saída de pessoas",
+          "Controle de estoque no ambiente de trabalho",
+          "Controle de vigilantes no ambiente de trabalho"
+        ],
+        "resposta": "Verificação e autorização de entrada e saída de pessoas",
+        "nivel": "medio",
+        "id": 96,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O uso da força pelo vigilante deve ser:?",
+        "opcoes": [
+          "Sempre imediato",
+          "Proporcional à situação",
+          "Exagerado",
+          "Desnecessário"
+        ],
+        "resposta": "Proporcional à situação",
+        "nivel": "medio",
+        "id": 97,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Quem regulamenta a atividade de vigilante no brasil?",
+        "opcoes": [
+          "Polícia Militar",
+          "Polícia Federal",
+          "Guarda Municipal",
+          "Exército"
+        ],
+        "resposta": "Polícia Federal",
+        "nivel": "medio",
+        "id": 98,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que é perímetro de segurança?",
+        "opcoes": [
+          "Área sem vigilância no ambiente de trabalho",
+          "Área delimitada para controle e proteção",
+          "Local de descanso no ambiente de trabalho",
+          "Área administrativa no ambiente de trabalho"
+        ],
+        "resposta": "Área delimitada para controle e proteção",
+        "nivel": "medio",
+        "id": 99,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O vigilante deve manter sigilo sobre informações do local de trabalho?",
+        "opcoes": [
+          "Sim",
+          "Não (procedimento padrão)",
+          "Apenas às vezes",
+          "Somente para colegas"
+        ],
+        "resposta": "Sim",
+        "nivel": "medio",
+        "id": 100,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é o objetivo da segurança patrimonial?",
+        "opcoes": [
+          "Proteger bens, instalações e pessoas",
+          "Somente observar câmeras no ambiente de trabalho",
+          "Fazer policiamento urbano no ambiente de trabalho",
+          "Aplicar leis no ambiente de trabalho"
+        ],
+        "resposta": "Proteger bens, instalações e pessoas",
+        "nivel": "medio",
+        "id": 101,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é a carga horária mínima do curso de formação de vigilante no brasil?",
+        "opcoes": [
+          "50 horas",
+          "100 horas",
+          "200 horas",
+          "500 horas"
+        ],
+        "resposta": "200 horas",
+        "nivel": "medio",
+        "id": 102,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 2
+      },
+      {
+        "pergunta": "O que significa prevenção na segurança?",
+        "opcoes": [
+          "Agir depois do crime no ambiente de trabalho",
+          "Evitar que incidentes aconteçam",
+          "Ignorar riscos no ambiente de trabalho",
+          "Apenas registrar ocorrências"
+        ],
+        "resposta": "Evitar que incidentes aconteçam",
+        "nivel": "medio",
+        "id": 103,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Ao realizar uma abordagem, o vigilante deve:?",
+        "opcoes": [
+          "Agir com agressividade no ambiente de trabalho",
+          "Manter postura profissional e respeitosa",
+          "Ignorar a situação no ambiente de trabalho",
+          "Fazer ameaças no ambiente de trabalho"
+        ],
+        "resposta": "Manter postura profissional e respeitosa",
+        "nivel": "medio",
+        "id": 104,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual documento registra oficialmente as ocorrências do serviço?",
+        "opcoes": [
+          "Livro de ocorrências",
+          "Escala de trabalho",
+          "Contrato",
+          "Relatório financeiro"
+        ],
+        "resposta": "Livro de ocorrências",
+        "nivel": "dificil",
+        "id": 105,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que caracteriza legítima defesa?",
+        "opcoes": [
+          "Ataque sem motivo no ambiente de trabalho",
+          "Reação proporcional para repelir agressão injusta",
+          "Uso excessivo da força no ambiente de trabalho",
+          "Vingança (procedimento padrão)"
+        ],
+        "resposta": "Reação proporcional para repelir agressão injusta",
+        "nivel": "dificil",
+        "id": 106,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a função do alarme perimetral?",
+        "opcoes": [
+          "Iluminar o local no ambiente de trabalho",
+          "Detectar invasões em áreas delimitadas",
+          "Controlar visitantes no ambiente de trabalho",
+          "Registrar imagens no ambiente de trabalho"
+        ],
+        "resposta": "Detectar invasões em áreas delimitadas",
+        "nivel": "dificil",
+        "id": 107,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em caso de suspeita de bomba ou objeto suspeito, o vigilante deve:?",
+        "opcoes": [
+          "Tocar no objeto no ambiente de trabalho",
+          "Isolar a área e comunicar autoridades",
+          "Ignorar (procedimento padrão)",
+          "Levar o objeto para outro local"
+        ],
+        "resposta": "Isolar a área e comunicar autoridades",
+        "nivel": "dificil",
+        "id": 108,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "O planejamento de segurança serve para:?",
+        "opcoes": [
+          "Organizar ações de prevenção e resposta a incidentes",
+          "Apenas cumprir regras no ambiente de trabalho",
+          "Fazer relatórios no ambiente de trabalho",
+          "Controlar vigilantes no ambiente de trabalho"
+        ],
+        "resposta": "Organizar ações de prevenção e resposta a incidentes",
+        "nivel": "dificil",
+        "id": 109,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a importância da ronda noturna?",
+        "opcoes": [
+          "Apenas cumprir horário no ambiente de trabalho",
+          "Identificar riscos e irregularidades",
+          "Fazer descanso no ambiente de trabalho",
+          "Conversar com colegas no ambiente de trabalho"
+        ],
+        "resposta": "Identificar riscos e irregularidades",
+        "nivel": "dificil",
+        "id": 110,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Conceitualmente, como se define análise de risco na segurança?",
+        "opcoes": [
+          "Estudo para identificar vulnerabilidades",
+          "Apenas observação de câmeras no ambiente de trabalho",
+          "Controle de visitantes no ambiente de trabalho",
+          "Registro de ocorrências no ambiente de trabalho"
+        ],
+        "resposta": "Estudo para identificar vulnerabilidades",
+        "nivel": "dificil",
+        "id": 111,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 0
+      },
+      {
+        "pergunta": "A postura do vigilante influencia:?",
+        "opcoes": [
+          "Apenas a aparência no ambiente de trabalho",
+          "A credibilidade e segurança do local",
+          "Somente a empresa no ambiente de trabalho",
+          "Nada (procedimento padrão)"
+        ],
+        "resposta": "A credibilidade e segurança do local",
+        "nivel": "dificil",
+        "id": 112,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a função da central de monitoramento?",
+        "opcoes": [
+          "Apenas gravar imagens no ambiente de trabalho",
+          "Monitorar e apoiar operações de segurança",
+          "Fazer manutenção no ambiente de trabalho",
+          "Controlar escalas no ambiente de trabalho"
+        ],
+        "resposta": "Monitorar e apoiar operações de segurança",
+        "nivel": "dificil",
+        "id": 113,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em caso de invasão, o vigilante deve prioritariamente:?",
+        "opcoes": [
+          "Confrontar sozinho o invasor no ambiente de trabalho",
+          "Comunicar a central e seguir o protocolo de segurança",
+          "Abandonar o posto no ambiente de trabalho",
+          "Desligar equipamentos no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar a central e seguir o protocolo de segurança",
+        "nivel": "dificil",
+        "id": 114,
+        "categoria": "Vigilante Patrimonial",
+        "correta": 1
+      }
+    ],
+    "Manutenção": [
+      {
+        "pergunta": "Qual procedimento deve ser adotado antes de realizar manutenção em circuito elétrico energizado?",
+        "opcoes": [
+          "Utilizar apenas luvas de proteção no ambiente de trabalho",
+          "Aplicar procedimento de bloqueio e sinalização do circuito",
+          "Reduzir a carga do circuito no ambiente de trabalho",
+          "Trabalhar rapidamente para evitar riscos no ambiente de trabalho"
+        ],
+        "resposta": "Aplicar procedimento de bloqueio e sinalização do circuito",
+        "nivel": "facil",
+        "id": 115,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual componente do quadro elétrico interrompe automaticamente o circuito em caso de sobrecarga?",
+        "opcoes": [
+          "Transformador",
+          "Disjuntor",
+          "Relé térmico",
+          "Tomada"
+        ],
+        "resposta": "Disjuntor",
+        "nivel": "facil",
+        "id": 116,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual problema estrutural pode ser causado por infiltração contínua em lajes ou paredes?",
+        "opcoes": [
+          "Melhor isolamento térmico no ambiente de trabalho",
+          "Corrosão de armaduras e comprometimento da estrutura",
+          "Redução do peso da estrutura no ambiente de trabalho",
+          "Aumento da resistência do concreto no ambiente de trabalho"
+        ],
+        "resposta": "Corrosão de armaduras e comprometimento da estrutura",
+        "nivel": "facil",
+        "id": 117,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "O aquecimento excessivo de um motor elétrico pode ser causado por:?",
+        "opcoes": [
+          "Falta de ventilação ou sobrecarga",
+          "Baixa tensão constante",
+          "Falta de lubrificação externa",
+          "Excesso de iluminação"
+        ],
+        "resposta": "Falta de ventilação ou sobrecarga",
+        "nivel": "facil",
+        "id": 118,
+        "categoria": "Manutenção",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual é o principal objetivo do sistema de aterramento em uma instalação elétrica predial?",
+        "opcoes": [
+          "Aumentar a tensão elétrica no ambiente de trabalho conforme as especificações técnicas",
+          "Reduzir o consumo de energia no ambiente de trabalho conforme as especificações técnicas",
+          "Conduzir correntes de falha para o solo, protegendo pessoas e equipamentos",
+          "Armazenar energia elétrica no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Conduzir correntes de falha para o solo, protegendo pessoas e equipamentos",
+        "nivel": "facil",
+        "id": 119,
+        "categoria": "Manutenção",
+        "correta": 2
+      },
+      {
+        "pergunta": "O que pode indicar vibração excessiva em uma bomba hidráulica em funcionamento?",
+        "opcoes": [
+          "Funcionamento ideal no ambiente de trabalho",
+          "Desalinhamento ou desgaste de componentes internos",
+          "Baixo consumo de energia no ambiente de trabalho",
+          "Pressão adequada da água no ambiente de trabalho"
+        ],
+        "resposta": "Desalinhamento ou desgaste de componentes internos",
+        "nivel": "facil",
+        "id": 120,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em sistemas hidráulicos prediais, qual é a função da válvula de retenção?",
+        "opcoes": [
+          "Controlar a pressão da água no ambiente de trabalho",
+          "Impedir o retorno do fluxo de água na tubulação",
+          "Aumentar a vazão de água no ambiente de trabalho",
+          "Filtrar impurezas da rede no ambiente de trabalho"
+        ],
+        "resposta": "Impedir o retorno do fluxo de água na tubulação",
+        "nivel": "facil",
+        "id": 121,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual instrumento é utilizado para medir tensão, corrente e resistência elétrica simultaneamente?",
+        "opcoes": [
+          "Amperímetro",
+          "Multímetro",
+          "Osciloscópio",
+          "Voltímetro"
+        ],
+        "resposta": "Multímetro",
+        "nivel": "facil",
+        "id": 122,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em manutenção predial, o que caracteriza uma inspeção técnica periódica?",
+        "opcoes": [
+          "Avaliação programada das condições dos sistemas e equipamentos",
+          "Reparos apenas após falhas no ambiente de trabalho",
+          "Substituição completa de equipamentos no ambiente de trabalho",
+          "Inspeção visual sem registro no ambiente de trabalho"
+        ],
+        "resposta": "Avaliação programada das condições dos sistemas e equipamentos",
+        "nivel": "facil",
+        "id": 123,
+        "categoria": "Manutenção",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em sistemas de combate a incêndio, qual é a função da bomba de incêndio?",
+        "opcoes": [
+          "Filtrar água no ambiente de trabalho conforme as especificações técnicas",
+          "Manter pressão suficiente na rede de hidrantes e sprinklers",
+          "Armazenar água no ambiente de trabalho conforme as especificações técnicas",
+          "Controlar o fluxo de energia no ambiente de trabalho"
+        ],
+        "resposta": "Manter pressão suficiente na rede de hidrantes e sprinklers",
+        "nivel": "facil",
+        "id": 124,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual procedimento deve ser adotado ao trabalhar em altura durante manutenção?",
+        "opcoes": [
+          "Trabalhar sem equipamentos para maior mobilidade no ambiente de trabalho",
+          "Utilizar sistemas de proteção contra quedas e EPIs adequados",
+          "Trabalhar rapidamente no ambiente de trabalho",
+          "Utilizar apenas escada simples no ambiente de trabalho"
+        ],
+        "resposta": "Utilizar sistemas de proteção contra quedas e EPIs adequados",
+        "nivel": "medio",
+        "id": 125,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual equipamento é responsável por manter iluminação em rotas de fuga durante falta de energia?",
+        "opcoes": [
+          "Gerador principal no ambiente de trabalho",
+          "Sistema de iluminação de emergência",
+          "Transformador elétrico no ambiente de trabalho",
+          "Quadro de distribuição no ambiente de trabalho"
+        ],
+        "resposta": "Sistema de iluminação de emergência",
+        "nivel": "medio",
+        "id": 126,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em sistemas hidráulicos, o que pode provocar golpe de aríete nas tubulações?",
+        "opcoes": [
+          "Fechamento brusco de válvulas",
+          "Baixa pressão da água",
+          "Falta de água no reservatório",
+          "Vazamentos pequenos"
+        ],
+        "resposta": "Fechamento brusco de válvulas",
+        "nivel": "medio",
+        "id": 127,
+        "categoria": "Manutenção",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que pode causar entupimentos frequentes em tubulações de esgoto?",
+        "opcoes": [
+          "Pressão excessiva no ambiente de trabalho",
+          "Acúmulo de resíduos sólidos e gordura",
+          "Alta vazão de água no ambiente de trabalho",
+          "Uso de válvulas de retenção"
+        ],
+        "resposta": "Acúmulo de resíduos sólidos e gordura",
+        "nivel": "medio",
+        "id": 128,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que pode indicar falha em rolamentos de motores elétricos?",
+        "opcoes": [
+          "Funcionamento silencioso no ambiente de trabalho",
+          "Ruídos metálicos e aumento de vibração",
+          "Baixa temperatura no ambiente de trabalho",
+          "Redução da corrente elétrica"
+        ],
+        "resposta": "Ruídos metálicos e aumento de vibração",
+        "nivel": "medio",
+        "id": 129,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é a principal função de um quadro de comando de bombas?",
+        "opcoes": [
+          "Armazenar energia no ambiente de trabalho",
+          "Controlar o acionamento e proteção dos motores das bombas",
+          "Regular a pressão da água no ambiente de trabalho",
+          "Filtrar impurezas da rede no ambiente de trabalho"
+        ],
+        "resposta": "Controlar o acionamento e proteção dos motores das bombas",
+        "nivel": "medio",
+        "id": 130,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é a finalidade da manutenção preditiva em sistemas prediais?",
+        "opcoes": [
+          "Substituir todos os equipamentos periodicamente",
+          "Monitorar condições para prever falhas antes que ocorram",
+          "Reparar equipamentos quebrados no ambiente de trabalho",
+          "Reduzir o número de inspeções no ambiente de trabalho"
+        ],
+        "resposta": "Monitorar condições para prever falhas antes que ocorram",
+        "nivel": "medio",
+        "id": 131,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que pode indicar queda de tensão em uma instalação elétrica predial?",
+        "opcoes": [
+          "Aumento da iluminação no ambiente de trabalho",
+          "Funcionamento inadequado de equipamentos elétricos",
+          "Redução da corrente elétrica no ambiente de trabalho",
+          "Aumento da potência instalada no ambiente de trabalho"
+        ],
+        "resposta": "Funcionamento inadequado de equipamentos elétricos",
+        "nivel": "medio",
+        "id": 132,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que deve ser feito ao identificar um equipamento elétrico com isolamento danificado?",
+        "opcoes": [
+          "Continuar utilizando até a próxima manutenção",
+          "Isolar o equipamento e providenciar reparo imediato",
+          "Cobrir com fita comum no ambiente de trabalho",
+          "Ignorar se estiver funcionando no ambiente de trabalho"
+        ],
+        "resposta": "Isolar o equipamento e providenciar reparo imediato",
+        "nivel": "medio",
+        "id": 133,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em instalações prediais, qual é a função do dr (dispositivo diferencial residual)?",
+        "opcoes": [
+          "Controlar tensão elétrica no ambiente de trabalho",
+          "Proteger contra choques elétricos causados por fuga de corrente",
+          "Aumentar a potência elétrica no ambiente de trabalho",
+          "Controlar iluminação no ambiente de trabalho"
+        ],
+        "resposta": "Proteger contra choques elétricos causados por fuga de corrente",
+        "nivel": "medio",
+        "id": 134,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que deve ser feito ao identificar fissuras estruturais em paredes ou vigas?",
+        "opcoes": [
+          "Pintar o local no ambiente de trabalho",
+          "Comunicar imediatamente a avaliação técnica especializada",
+          "Ignorar se não houver infiltração no ambiente de trabalho",
+          "Fechar com massa corrida no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar imediatamente a avaliação técnica especializada",
+        "nivel": "dificil",
+        "id": 135,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a principal função de um gerador em edificações?",
+        "opcoes": [
+          "Aumentar potência da rede no ambiente de trabalho",
+          "Fornecer energia em caso de falha no fornecimento principal",
+          "Controlar tensão no ambiente de trabalho conforme as especificações técnicas",
+          "Reduzir consumo no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Fornecer energia em caso de falha no fornecimento principal",
+        "nivel": "dificil",
+        "id": 136,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em um plano de manutenção predial eficiente, qual elemento é essencial?",
+        "opcoes": [
+          "Apenas reparos emergenciais no ambiente de trabalho",
+          "Cronograma de inspeções, manutenção preventiva e registros técnicos",
+          "Apenas substituição de equipamentos no ambiente de trabalho",
+          "Apenas limpeza periódica no ambiente de trabalho"
+        ],
+        "resposta": "Cronograma de inspeções, manutenção preventiva e registros técnicos",
+        "nivel": "dificil",
+        "id": 137,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em manutenção elétrica, o que significa identificar um curto-circuito?",
+        "opcoes": [
+          "Aumento da resistência elétrica no ambiente de trabalho conforme as especificações técnicas",
+          "Contato direto entre condutores energizados causando alta corrente",
+          "Redução de energia no ambiente de trabalho conforme as especificações técnicas",
+          "Falta de corrente elétrica no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Contato direto entre condutores energizados causando alta corrente",
+        "nivel": "dificil",
+        "id": 138,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual risco está associado a conexões elétricas mal apertadas?",
+        "opcoes": [
+          "Redução de tensão no ambiente de trabalho",
+          "Aquecimento excessivo e risco de incêndio",
+          "Aumento de potência no ambiente de trabalho",
+          "Melhoria da condução elétrica no ambiente de trabalho"
+        ],
+        "resposta": "Aquecimento excessivo e risco de incêndio",
+        "nivel": "dificil",
+        "id": 139,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em manutenção predial, o que caracteriza um sistema de pressurização de água?",
+        "opcoes": [
+          "Sistema que armazena água no ambiente de trabalho",
+          "Equipamento que mantém pressão constante na rede hidráulica",
+          "Sistema que filtra água no ambiente de trabalho",
+          "Equipamento que aquece água no ambiente de trabalho"
+        ],
+        "resposta": "Equipamento que mantém pressão constante na rede hidráulica",
+        "nivel": "dificil",
+        "id": 140,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em sistemas prediais, qual é a função do reservatório inferior?",
+        "opcoes": [
+          "Armazenar água antes do bombeamento para reservatórios superiores",
+          "Filtrar água no ambiente de trabalho conforme as especificações técnicas",
+          "Aquecer água no ambiente de trabalho conforme as especificações técnicas",
+          "Controlar pressão no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Armazenar água antes do bombeamento para reservatórios superiores",
+        "nivel": "dificil",
+        "id": 141,
+        "categoria": "Manutenção",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em sistemas de ventilação mecânica, filtros sujos podem causar:?",
+        "opcoes": [
+          "Melhoria da circulação de ar no ambiente de trabalho",
+          "Redução da eficiência e aumento do consumo de energia",
+          "Aumento da pressão do ar no ambiente de trabalho",
+          "Resfriamento do ambiente no ambiente de trabalho"
+        ],
+        "resposta": "Redução da eficiência e aumento do consumo de energia",
+        "nivel": "dificil",
+        "id": 142,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a importância do registro técnico das manutenções realizadas?",
+        "opcoes": [
+          "Apenas controle administrativo no ambiente de trabalho",
+          "Histórico para planejamento, controle e prevenção de falhas",
+          "Redução de custos imediatos no ambiente de trabalho",
+          "Controle de presença no ambiente de trabalho"
+        ],
+        "resposta": "Histórico para planejamento, controle e prevenção de falhas",
+        "nivel": "dificil",
+        "id": 143,
+        "categoria": "Manutenção",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que caracteriza uma falha crítica em equipamentos prediais?",
+        "opcoes": [
+          "Pequeno ruído no ambiente de trabalho conforme as especificações técnicas",
+          "Defeito que compromete segurança ou funcionamento essencial do sistema",
+          "Necessidade de limpeza no ambiente de trabalho conforme as especificações técnicas",
+          "Pequena redução de desempenho no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Defeito que compromete segurança ou funcionamento essencial do sistema",
+        "nivel": "dificil",
+        "id": 144,
+        "categoria": "Manutenção",
+        "correta": 1
+      }
+    ],
+    "ASG": [
+      {
+        "pergunta": "Qual é o procedimento correto ao limpar um ambiente interno?",
+        "opcoes": [
+          "Começar pelo chão no ambiente de trabalho",
+          "Limpar do local mais alto para o mais baixo",
+          "Começar pelas portas no ambiente de trabalho",
+          "Limpar primeiro os cantos no ambiente de trabalho"
+        ],
+        "resposta": "Limpar do local mais alto para o mais baixo",
+        "nivel": "facil",
+        "id": 145,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é o principal objetivo da limpeza profissional em ambientes coletivos?",
+        "opcoes": [
+          "Apenas melhorar a aparência no ambiente de trabalho",
+          "Reduzir riscos de contaminação e manter o ambiente saudável",
+          "Diminuir o trabalho da manutenção no ambiente de trabalho",
+          "Apenas retirar poeira no ambiente de trabalho"
+        ],
+        "resposta": "Reduzir riscos de contaminação e manter o ambiente saudável",
+        "nivel": "facil",
+        "id": 146,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em pisos molhados durante a limpeza, qual procedimento aumenta a segurança?",
+        "opcoes": [
+          "Acelerar o processo no ambiente de trabalho",
+          "Sinalizar a área com aviso de piso molhado",
+          "Fechar todas as portas no ambiente de trabalho",
+          "Aumentar a iluminação no ambiente de trabalho"
+        ],
+        "resposta": "Sinalizar a área com aviso de piso molhado",
+        "nivel": "facil",
+        "id": 147,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a função do pano de microfibra na limpeza profissional?",
+        "opcoes": [
+          "Apenas secar superfícies no ambiente de trabalho",
+          "Capturar poeira e sujeira com maior eficiência",
+          "Aplicar desinfetante apenas no ambiente de trabalho",
+          "Polir metais no ambiente de trabalho"
+        ],
+        "resposta": "Capturar poeira e sujeira com maior eficiência",
+        "nivel": "facil",
+        "id": 148,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a forma correta de armazenar produtos químicos de limpeza?",
+        "opcoes": [
+          "Em qualquer recipiente disponível no ambiente de trabalho",
+          "Em recipientes identificados e local apropriado",
+          "Misturados para economizar espaço no ambiente de trabalho",
+          "Próximo a alimentos no ambiente de trabalho"
+        ],
+        "resposta": "Em recipientes identificados e local apropriado",
+        "nivel": "facil",
+        "id": 149,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Por que é importante utilizar luvas durante atividades de limpeza?",
+        "opcoes": [
+          "Melhorar aparência do funcionário no ambiente de trabalho",
+          "Proteger a pele contra produtos químicos e contaminações",
+          "Evitar molhar as mãos no ambiente de trabalho",
+          "Facilitar o uso de equipamentos no ambiente de trabalho"
+        ],
+        "resposta": "Proteger a pele contra produtos químicos e contaminações",
+        "nivel": "facil",
+        "id": 150,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a função do desinfetante em processos de limpeza?",
+        "opcoes": [
+          "Apenas perfumar o ambiente no ambiente de trabalho",
+          "Eliminar ou reduzir microrganismos presentes nas superfícies",
+          "Remover gordura pesada no ambiente de trabalho",
+          "Secar superfícies no ambiente de trabalho"
+        ],
+        "resposta": "Eliminar ou reduzir microrganismos presentes nas superfícies",
+        "nivel": "facil",
+        "id": 151,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a principal função do detergente na limpeza?",
+        "opcoes": [
+          "Desinfetar superfícies",
+          "Remover sujeiras e gorduras",
+          "Esterilizar ambientes",
+          "Secar superfícies"
+        ],
+        "resposta": "Remover sujeiras e gorduras",
+        "nivel": "facil",
+        "id": 152,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que caracteriza uma limpeza terminal em ambientes profissionais?",
+        "opcoes": [
+          "Limpeza rápida no ambiente de trabalho",
+          "Limpeza profunda realizada após desocupação do ambiente",
+          "Limpeza superficial no ambiente de trabalho",
+          "Apenas varrição no ambiente de trabalho"
+        ],
+        "resposta": "Limpeza profunda realizada após desocupação do ambiente",
+        "nivel": "facil",
+        "id": 153,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que pode ocorrer ao misturar produtos químicos de limpeza sem conhecimento técnico?",
+        "opcoes": [
+          "Aumentar eficiência no ambiente de trabalho",
+          "Produzir gases tóxicos ou reações perigosas",
+          "Melhorar o cheiro do ambiente no ambiente de trabalho",
+          "Reduzir o consumo de produto no ambiente de trabalho"
+        ],
+        "resposta": "Produzir gases tóxicos ou reações perigosas",
+        "nivel": "facil",
+        "id": 154,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que deve ser feito ao identificar um produto de limpeza sem rótulo?",
+        "opcoes": [
+          "Utilizar normalmente no ambiente de trabalho",
+          "Identificar corretamente antes de usar",
+          "Misturar com outro produto no ambiente de trabalho",
+          "Descartar no ralo no ambiente de trabalho"
+        ],
+        "resposta": "Identificar corretamente antes de usar",
+        "nivel": "medio",
+        "id": 155,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é o principal risco de não utilizar epi durante limpeza com produtos químicos?",
+        "opcoes": [
+          "Sujar a roupa no ambiente de trabalho",
+          "Irritações, intoxicações ou acidentes",
+          "Reduzir produtividade no ambiente de trabalho",
+          "Aumentar consumo de produtos"
+        ],
+        "resposta": "Irritações, intoxicações ou acidentes",
+        "nivel": "medio",
+        "id": 156,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é a função do mop úmido na limpeza profissional?",
+        "opcoes": [
+          "Remover poeira seca no ambiente de trabalho",
+          "Limpar e higienizar pisos com solução de limpeza",
+          "Secar janelas no ambiente de trabalho",
+          "Polir superfícies metálicas no ambiente de trabalho"
+        ],
+        "resposta": "Limpar e higienizar pisos com solução de limpeza",
+        "nivel": "medio",
+        "id": 157,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual procedimento reduz a propagação de germes ao limpar banheiros?",
+        "opcoes": [
+          "Usar o mesmo pano em todas as superfícies",
+          "Utilizar materiais específicos para cada área",
+          "Limpar rapidamente no ambiente de trabalho",
+          "Utilizar apenas água no ambiente de trabalho"
+        ],
+        "resposta": "Utilizar materiais específicos para cada área",
+        "nivel": "medio",
+        "id": 158,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é o objetivo da varrição úmida em ambientes internos?",
+        "opcoes": [
+          "Espalhar poeira no ambiente de trabalho",
+          "Reduzir suspensão de poeira no ar",
+          "Aumentar brilho do piso",
+          "Secar superfícies no ambiente de trabalho"
+        ],
+        "resposta": "Reduzir suspensão de poeira no ar",
+        "nivel": "medio",
+        "id": 159,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual equipamento é mais indicado para remover poeira de áreas altas?",
+        "opcoes": [
+          "Vassoura comum",
+          "Extensor com espanador",
+          "Rodo (procedimento padrão)",
+          "Mop seco no ambiente de trabalho"
+        ],
+        "resposta": "Extensor com espanador",
+        "nivel": "medio",
+        "id": 160,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "O uso excessivo de produto químico na limpeza pode causar:?",
+        "opcoes": [
+          "Melhor limpeza no ambiente de trabalho",
+          "Resíduos no ambiente e desperdício",
+          "Redução da sujeira no ambiente de trabalho",
+          "Menor tempo de trabalho no ambiente de trabalho"
+        ],
+        "resposta": "Resíduos no ambiente e desperdício",
+        "nivel": "medio",
+        "id": 161,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em limpeza profissional, qual é a finalidade do enxágue após uso de detergentes?",
+        "opcoes": [
+          "Melhorar cheiro no ambiente de trabalho",
+          "Remover resíduos do produto da superfície",
+          "Secar superfícies no ambiente de trabalho",
+          "Polir o local no ambiente de trabalho"
+        ],
+        "resposta": "Remover resíduos do produto da superfície",
+        "nivel": "medio",
+        "id": 162,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é a importância da ventilação durante a limpeza de ambientes fechados?",
+        "opcoes": [
+          "Aumentar a iluminação no ambiente de trabalho",
+          "Reduzir concentração de vapores químicos",
+          "Facilitar a secagem do piso apenas",
+          "Melhorar aparência no ambiente de trabalho"
+        ],
+        "resposta": "Reduzir concentração de vapores químicos",
+        "nivel": "medio",
+        "id": 163,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em áreas comuns de condomínios, qual local exige maior frequência de higienização?",
+        "opcoes": [
+          "Paredes externas no ambiente de trabalho conforme as especificações técnicas",
+          "Superfícies de contato frequente como corrimãos e maçanetas",
+          "Tetos (procedimento padrão) conforme as especificações técnicas",
+          "Garagens abertas no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Superfícies de contato frequente como corrimãos e maçanetas",
+        "nivel": "medio",
+        "id": 164,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é o objetivo da diluição correta de produtos de limpeza?",
+        "opcoes": [
+          "Aumentar consumo no ambiente de trabalho",
+          "Garantir eficiência e segurança no uso",
+          "Diminuir tempo de trabalho no ambiente de trabalho",
+          "Melhorar aparência no ambiente de trabalho"
+        ],
+        "resposta": "Garantir eficiência e segurança no uso",
+        "nivel": "dificil",
+        "id": 165,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "O descarte correto de resíduos coletados durante a limpeza deve seguir:?",
+        "opcoes": [
+          "Apenas o tipo de saco disponível",
+          "Normas de separação e coleta de resíduos",
+          "Mistura de todos os resíduos no ambiente de trabalho",
+          "Descarte direto no ralo no ambiente de trabalho"
+        ],
+        "resposta": "Normas de separação e coleta de resíduos",
+        "nivel": "dificil",
+        "id": 166,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual problema pode ocorrer se equipamentos de limpeza não forem higienizados após o uso?",
+        "opcoes": [
+          "Melhor desempenho no ambiente de trabalho",
+          "Acúmulo de sujeira e contaminação cruzada",
+          "Redução de consumo de produtos no ambiente de trabalho",
+          "Aumento da durabilidade no ambiente de trabalho"
+        ],
+        "resposta": "Acúmulo de sujeira e contaminação cruzada",
+        "nivel": "dificil",
+        "id": 167,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é o risco de deixar cabos e equipamentos espalhados no local de trabalho?",
+        "opcoes": [
+          "Nenhum (procedimento padrão)",
+          "Possibilidade de quedas e acidentes",
+          "Aumento da eficiência no ambiente de trabalho",
+          "Melhor organização no ambiente de trabalho"
+        ],
+        "resposta": "Possibilidade de quedas e acidentes",
+        "nivel": "dificil",
+        "id": 168,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é o procedimento correto ao limpar vidros em altura?",
+        "opcoes": [
+          "Utilizar qualquer equipamento no ambiente de trabalho",
+          "Utilizar equipamentos adequados e técnicas seguras",
+          "Usar apenas pano seco no ambiente de trabalho",
+          "Jogar água diretamente no ambiente de trabalho"
+        ],
+        "resposta": "Utilizar equipamentos adequados e técnicas seguras",
+        "nivel": "dificil",
+        "id": 169,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a principal função do rodo na limpeza de pisos?",
+        "opcoes": [
+          "Espalhar água no ambiente de trabalho",
+          "Remover excesso de água após lavagem",
+          "Limpar paredes no ambiente de trabalho",
+          "Aplicar desinfetante no ambiente de trabalho"
+        ],
+        "resposta": "Remover excesso de água após lavagem",
+        "nivel": "dificil",
+        "id": 170,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é a importância do planejamento das rotinas de limpeza?",
+        "opcoes": [
+          "Reduzir funcionários no ambiente de trabalho",
+          "Garantir organização e eficiência no serviço",
+          "Aumentar uso de produtos no ambiente de trabalho",
+          "Diminuir controle no ambiente de trabalho"
+        ],
+        "resposta": "Garantir organização e eficiência no serviço",
+        "nivel": "dificil",
+        "id": 171,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em limpeza profissional, o que significa contaminação cruzada?",
+        "opcoes": [
+          "Mistura de produtos no ambiente de trabalho",
+          "Transferência de microrganismos de um local para outro",
+          "Uso de água contaminada no ambiente de trabalho",
+          "Mistura de resíduos no ambiente de trabalho"
+        ],
+        "resposta": "Transferência de microrganismos de um local para outro",
+        "nivel": "dificil",
+        "id": 172,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em limpeza de áreas externas, qual fator deve ser considerado antes de iniciar o serviço?",
+        "opcoes": [
+          "Horário de refeição",
+          "Condições climáticas",
+          "Cor do piso",
+          "Quantidade de funcionários"
+        ],
+        "resposta": "Condições climáticas",
+        "nivel": "dificil",
+        "id": 173,
+        "categoria": "ASG",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual procedimento aumenta a durabilidade dos equipamentos de limpeza?",
+        "opcoes": [
+          "Guardar molhados no ambiente de trabalho",
+          "Higienizar e armazenar corretamente após o uso",
+          "Deixar expostos ao sol no ambiente de trabalho",
+          "Utilizar sem manutenção no ambiente de trabalho"
+        ],
+        "resposta": "Higienizar e armazenar corretamente após o uso",
+        "nivel": "dificil",
+        "id": 172,
+        "categoria": "ASG",
+        "correta": 1
+      }
+    ],
+    "VSPP": [
+      {
+        "pergunta": "Qual é o significado da sigla vspp?",
+        "opcoes": [
+          "Vigilância e Segurança Patrimonial Privada",
+          "Vigilância de Sistemas de Proteção Predial",
+          "Vigilância e Serviços de Portaria Privada",
+          "Vigilância de Segurança Pessoal e Patrimonial"
+        ],
+        "resposta": "Vigilância e Segurança Patrimonial Privada",
+        "nivel": "facil",
+        "id": 173,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual é o principal objetivo do vspp?",
+        "opcoes": [
+          "Proteger apenas os funcionários no ambiente de trabalho",
+          "Proteger o patrimônio e as pessoas no ambiente corporativo",
+          "Fiscalizar apenas o trânsito interno no ambiente de trabalho",
+          "Controlar o estoque de materiais no ambiente de trabalho"
+        ],
+        "resposta": "Proteger o patrimônio e as pessoas no ambiente corporativo",
+        "nivel": "facil",
+        "id": 174,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em uma ronda vspp, qual equipamento é fundamental para registrar pontos de verificação?",
+        "opcoes": [
+          "Rastreador veicular no ambiente de trabalho",
+          "Câmera portátil no ambiente de trabalho",
+          "Ponto eletrônico (PDA ou similar)",
+          "Leitor de placas no ambiente de trabalho"
+        ],
+        "resposta": "Ponto eletrônico (PDA ou similar)",
+        "nivel": "facil",
+        "id": 175,
+        "categoria": "VSPP",
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual a conduta correta ao identificar uma porta de emergência violada durante uma inspeção?",
+        "opcoes": [
+          "Fechar a porta e seguir a ronda no ambiente de trabalho",
+          "Comunicar imediatamente a central de segurança e registrar a ocorrência",
+          "Ignorar se não houver sinais de arrombamento no ambiente de trabalho",
+          "Realizar uma busca sozinho no local no ambiente de trabalho"
+        ],
+        "resposta": "Comunicar imediatamente a central de segurança e registrar a ocorrência",
+        "nivel": "facil",
+        "id": 176,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual documento deve ser consultado para conhecer os procedimentos de segurança vspp da empresa?",
+        "opcoes": [
+          "Contrato de trabalho",
+          "Plano de segurança patrimonial",
+          "Manual de manutenção",
+          "Código de ética"
+        ],
+        "resposta": "Plano de segurança patrimonial",
+        "nivel": "facil",
+        "id": 177,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "Durante a ronda noturna, um vspp observa uma luz acesa em uma sala que deveria estar vazia. o que fazer?",
+        "opcoes": [
+          "Desligar a luz e continuar a ronda no ambiente de trabalho",
+          "Verificar a causa com cautela e comunicar a central",
+          "Ignorar, pois é comum no ambiente de trabalho",
+          "Registrar apenas no dia seguinte no ambiente de trabalho"
+        ],
+        "resposta": "Verificar a causa com cautela e comunicar a central",
+        "nivel": "facil",
+        "id": 178,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que é um perímetro de segurança em vspp?",
+        "opcoes": [
+          "Limite físico ou virtual que separa área controlada de área pública",
+          "Área destinada ao descanso dos vigilantes no ambiente de trabalho",
+          "Região onde não há cobertura de câmeras no ambiente de trabalho",
+          "Local de estacionamento restrito no ambiente de trabalho"
+        ],
+        "resposta": "Limite físico ou virtual que separa área controlada de área pública",
+        "nivel": "facil",
+        "id": 179,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a primeira ação ao detectar princípio de incêndio em uma área administrativa?",
+        "opcoes": [
+          "Tentar apagar com extintor se estiver seguro e acionar o alarme",
+          "Correr para fora do prédio no ambiente de trabalho",
+          "Esperar os bombeiros chegarem no ambiente de trabalho",
+          "Desligar o sistema de CFTV no ambiente de trabalho"
+        ],
+        "resposta": "Tentar apagar com extintor se estiver seguro e acionar o alarme",
+        "nivel": "medio",
+        "id": 180,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual é a função do código de condomínio para o vspp?",
+        "opcoes": [
+          "Estabelecer regras de convivência e segurança a serem seguidas",
+          "Substituir o plano de segurança no ambiente de trabalho",
+          "Definir salários dos vigilantes no ambiente de trabalho",
+          "Controlar a manutenção predial no ambiente de trabalho"
+        ],
+        "resposta": "Estabelecer regras de convivência e segurança a serem seguidas",
+        "nivel": "medio",
+        "id": 181,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em vspp, o que caracteriza uma ocorrência grave que exige registro detalhado?",
+        "opcoes": [
+          "Troca de turno sem problemas no ambiente de trabalho",
+          "Roubo, incêndio, acidente com vítima ou ameaça",
+          "Visita de fornecedor autorizado no ambiente de trabalho",
+          "Falha em uma câmera secundária no ambiente de trabalho"
+        ],
+        "resposta": "Roubo, incêndio, acidente com vítima ou ameaça",
+        "nivel": "medio",
+        "id": 182,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "Como o vspp deve agir ao receber um alerta de invasão no sistema de alarme?",
+        "opcoes": [
+          "Desligar o alarme e verificar pessoalmente no ambiente de trabalho",
+          "Acionar a central, seguir o protocolo de verificação e registrar",
+          "Ignorar se for horário comercial no ambiente de trabalho",
+          "Comunicar apenas os bombeiros no ambiente de trabalho"
+        ],
+        "resposta": "Acionar a central, seguir o protocolo de verificação e registrar",
+        "nivel": "medio",
+        "id": 183,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "O que significa 'análise de risco' no contexto vspp?",
+        "opcoes": [
+          "Estudo para identificar vulnerabilidades e ameaças ao patrimônio",
+          "Reunião semanal da equipe no ambiente de trabalho conforme as especificações técnicas",
+          "Inspeção visual rápida no ambiente de trabalho conforme as especificações técnicas",
+          "Relatório de manutenção no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Estudo para identificar vulnerabilidades e ameaças ao patrimônio",
+        "nivel": "medio",
+        "id": 184,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a conduta correta ao abordar uma pessoa não autorizada na área restrita?",
+        "opcoes": [
+          "Solicitar identificação e encaminhar à portaria para registro",
+          "Expulsar imediatamente com agressividade no ambiente de trabalho",
+          "Ignorar se estiver bem vestida no ambiente de trabalho",
+          "Apenas observar e registrar depois no ambiente de trabalho"
+        ],
+        "resposta": "Solicitar identificação e encaminhar à portaria para registro",
+        "nivel": "medio",
+        "id": 185,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual equipamento é indispensável para o vspp em rondas noturnas?",
+        "opcoes": [
+          "Lanterna recarregável e rádio comunicador",
+          "Máquina fotográfica profissional",
+          "Tablet para lazer no ambiente de trabalho",
+          "Fones de ouvido no ambiente de trabalho"
+        ],
+        "resposta": "Lanterna recarregável e rádio comunicador",
+        "nivel": "medio",
+        "id": 186,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em relação ao sigilo das informações, o vspp deve:?",
+        "opcoes": [
+          "Compartilhar apenas com colegas de trabalho",
+          "Manter sigilo sobre procedimentos e dados da empresa",
+          "Divulgar em redes sociais no ambiente de trabalho",
+          "Comentar com familiares no ambiente de trabalho"
+        ],
+        "resposta": "Manter sigilo sobre procedimentos e dados da empresa",
+        "nivel": "medio",
+        "id": 187,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual é o papel do vspp na prevenção de acidentes de trabalho?",
+        "opcoes": [
+          "Identificar condições inseguras e comunicar à supervisão",
+          "Apenas registrar ocorrências no ambiente de trabalho",
+          "Substituir o SESMT no ambiente de trabalho",
+          "Ignorar riscos não relacionados à segurança no ambiente de trabalho"
+        ],
+        "resposta": "Identificar condições inseguras e comunicar à supervisão",
+        "nivel": "dificil",
+        "id": 188,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao receber uma ameaça de bomba por telefone, o vspp deve:?",
+        "opcoes": [
+          "Desligar imediatamente no ambiente de trabalho",
+          "Anotar o máximo de informações e acionar o protocolo de emergência",
+          "Transferir a ligação para a polícia no ambiente de trabalho",
+          "Ignorar se for trotes frequentes no ambiente de trabalho"
+        ],
+        "resposta": "Anotar o máximo de informações e acionar o protocolo de emergência",
+        "nivel": "dificil",
+        "id": 189,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a conduta ao identificar uma falha no sistema de controle de acesso biométrico?",
+        "opcoes": [
+          "Aguardar a manutenção programada no ambiente de trabalho conforme as especificações técnicas",
+          "Registrar a falha, acionar a manutenção e utilizar plano de contingência",
+          "Desativar o sistema até resolver no ambiente de trabalho conforme as especificações técnicas",
+          "Trocar o equipamento sem comunicar no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Registrar a falha, acionar a manutenção e utilizar plano de contingência",
+        "nivel": "dificil",
+        "id": 190,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "Conceitualmente, como se define 'cadeia de comando' na segurança vspp?",
+        "opcoes": [
+          "Hierarquia de comunicação e decisão em situações críticas",
+          "Lista de equipamentos no ambiente de trabalho",
+          "Sequência de rondas no ambiente de trabalho",
+          "Conjunto de câmeras no ambiente de trabalho"
+        ],
+        "resposta": "Hierarquia de comunicação e decisão em situações críticas",
+        "nivel": "dificil",
+        "id": 191,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Durante uma ocorrência de roubo em andamento, o vspp deve:?",
+        "opcoes": [
+          "Tentar deter o criminoso sozinho no ambiente de trabalho",
+          "Acionar a polícia, manter distância segura e preservar a vida",
+          "Fechar todas as saídas no ambiente de trabalho",
+          "Se esconder até o criminoso ir embora no ambiente de trabalho"
+        ],
+        "resposta": "Acionar a polícia, manter distância segura e preservar a vida",
+        "nivel": "dificil",
+        "id": 192,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a importância do registro fotográfico em uma inspeção vspp?",
+        "opcoes": [
+          "Documentar evidências para futuras análises e ocorrências",
+          "Ilustrar relatórios de vendas no ambiente de trabalho",
+          "Publicidade nas redes sociais no ambiente de trabalho",
+          "Apenas para arquivo pessoal no ambiente de trabalho"
+        ],
+        "resposta": "Documentar evidências para futuras análises e ocorrências",
+        "nivel": "dificil",
+        "id": 193,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "Dentro dos procedimentos técnicos, como deve ser a postura do vspp ao interagir com o público externo?",
+        "opcoes": [
+          "Rígida e intimidadora no ambiente de trabalho",
+          "Cordial, profissional e seguindo os protocolos da empresa",
+          "Indiferente (procedimento padrão)",
+          "Apenas responde perguntas se for superior no ambiente de trabalho"
+        ],
+        "resposta": "Cordial, profissional e seguindo os protocolos da empresa",
+        "nivel": "dificil",
+        "id": 194,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "Em relação à lgpd (lei geral de proteção de dados), o vspp deve:?",
+        "opcoes": [
+          "Ignorar, pois não se aplica à segurança no ambiente de trabalho",
+          "Tratar dados pessoais apenas para finalidades autorizadas e com sigilo",
+          "Compartilhar imagens livremente no ambiente de trabalho",
+          "Excluir todos os registros diariamente no ambiente de trabalho"
+        ],
+        "resposta": "Tratar dados pessoais apenas para finalidades autorizadas e com sigilo",
+        "nivel": "dificil",
+        "id": 195,
+        "categoria": "VSPP",
+        "correta": 1
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual ação é prioritária em um plano de evacuação de emergência?",
+        "opcoes": [
+          "Orientar as pessoas a sair em ordem e pelos caminhos seguros",
+          "Recolher pertences antes de sair no ambiente de trabalho",
+          "Usar elevador para acelerar no ambiente de trabalho",
+          "Esperar por ordem da polícia no ambiente de trabalho"
+        ],
+        "resposta": "Orientar as pessoas a sair em ordem e pelos caminhos seguros",
+        "nivel": "dificil",
+        "id": 196,
+        "categoria": "VSPP",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a frequência recomendada para treinamentos da equipe vspp?",
+        "opcoes": [
+          "Anual, com reciclagens periódicas",
+          "Apenas na admissão no ambiente de trabalho",
+          "A cada 5 anos no ambiente de trabalho",
+          "Somente quando ocorre incidente"
+        ],
+        "resposta": "Anual, com reciclagens periódicas",
+        "nivel": "dificil",
+        "id": 197,
+        "categoria": "VSPP",
+        "correta": 0
+      }
+    ],
+    "Recepcionista": [
+      {
+        "pergunta": "Qual a primeira impressão que uma recepcionista deve transmitir ao atender um visitante?",
+        "opcoes": [
+          "Cordialidade e profissionalismo",
+          "Indiferença (procedimento padrão)",
+          "Apresso (procedimento padrão)",
+          "Autoritarismo (procedimento padrão)"
+        ],
+        "resposta": "Cordialidade e profissionalismo",
+        "nivel": "facil",
+        "id": 198,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao atender um telefone, a recepcionista deve:?",
+        "opcoes": [
+          "Atender de forma clara, identificando a empresa e se oferecendo para ajudar",
+          "Apenas dizer 'alô' no ambiente de trabalho conforme as especificações técnicas",
+          "Transferir sem ouvir no ambiente de trabalho conforme as especificações técnicas",
+          "Deixar tocar várias vezes no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Atender de forma clara, identificando a empresa e se oferecendo para ajudar",
+        "nivel": "facil",
+        "id": 199,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que fazer ao receber uma encomenda endereçada a um funcionário ausente?",
+        "opcoes": [
+          "Recusar a entrega no ambiente de trabalho",
+          "Guardar em local seguro e notificar o funcionário",
+          "Abrir para verificar o conteúdo no ambiente de trabalho",
+          "Descartar a encomenda no ambiente de trabalho"
+        ],
+        "resposta": "Guardar em local seguro e notificar o funcionário",
+        "nivel": "facil",
+        "id": 200,
+        "categoria": "Recepcionista",
+        "correta": 1
+      },
+      {
+        "pergunta": "Como lidar com um visitante que está visivelmente irritado?",
+        "opcoes": [
+          "Manter a calma, ouvir atentamente e tentar resolver ou encaminhar",
+          "Ignorar o visitante no ambiente de trabalho conforme as especificações técnicas",
+          "Discutir para mostrar razão no ambiente de trabalho conforme as especificações técnicas",
+          "Chamar a polícia imediatamente no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Manter a calma, ouvir atentamente e tentar resolver ou encaminhar",
+        "nivel": "facil",
+        "id": 201,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual a postura correta ao receber um candidato a entrevista de emprego?",
+        "opcoes": [
+          "Informar que aguarde e comunicar o recrutador",
+          "Dispensar sem aviso no ambiente de trabalho",
+          "Iniciar a entrevista na recepção no ambiente de trabalho",
+          "Deixar o candidato esperando sem orientação"
+        ],
+        "resposta": "Informar que aguarde e comunicar o recrutador",
+        "nivel": "facil",
+        "id": 202,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em relação à aparência pessoal, a recepcionista deve:?",
+        "opcoes": [
+          "Vestir-se de forma adequada ao ambiente profissional",
+          "Usar roupas informais no ambiente de trabalho",
+          "Ignorar a aparência no ambiente de trabalho",
+          "Seguir a moda pessoal sem limites no ambiente de trabalho"
+        ],
+        "resposta": "Vestir-se de forma adequada ao ambiente profissional",
+        "nivel": "facil",
+        "id": 203,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual a função principal da recepcionista em uma empresa?",
+        "opcoes": [
+          "Recepcionar e direcionar visitantes, além de atender chamadas",
+          "Fazer serviços de limpeza no ambiente de trabalho",
+          "Realizar vendas externas no ambiente de trabalho",
+          "Gerenciar o financeiro no ambiente de trabalho"
+        ],
+        "resposta": "Recepcionar e direcionar visitantes, além de atender chamadas",
+        "nivel": "facil",
+        "id": 204,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Como proceder ao receber uma ligação para um ramal que não atende?",
+        "opcoes": [
+          "Anotar recado e oferecer retorno",
+          "Desligar o telefone no ambiente de trabalho",
+          "Transferir para outro ramal aleatório",
+          "Dizer que o funcionário não existe"
+        ],
+        "resposta": "Anotar recado e oferecer retorno",
+        "nivel": "facil",
+        "id": 205,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "É permitido que a recepcionista realize atendimento pessoal e telefônico simultaneamente?",
+        "opcoes": [
+          "Sim, desde que priorize quem chegou primeiro e mantenha o profissionalismo",
+          "Não, deve atender apenas um de cada vez no ambiente de trabalho conforme as especificações técnicas",
+          "Sim, mas apenas se houver fone de ouvido no ambiente de trabalho",
+          "Não, é proibido no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Sim, desde que priorize quem chegou primeiro e mantenha o profissionalismo",
+        "nivel": "facil",
+        "id": 206,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a melhor forma de transmitir uma mensagem para um funcionário ausente?",
+        "opcoes": [
+          "Anotar nome do contato, telefone e assunto, e entregar por escrito",
+          "Falar em voz alta na recepção no ambiente de trabalho",
+          "Enviar por e-mail pessoal no ambiente de trabalho",
+          "Não anotar, pedir para ligar depois no ambiente de trabalho"
+        ],
+        "resposta": "Anotar nome do contato, telefone e assunto, e entregar por escrito",
+        "nivel": "medio",
+        "id": 207,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao identificar uma pessoa não autorizada tentando acessar área restrita, a recepcionista deve:?",
+        "opcoes": [
+          "Solicitar identificação e orientar conforme procedimento",
+          "Deixar passar para evitar conflito no ambiente de trabalho",
+          "Gritar com a pessoa no ambiente de trabalho",
+          "Chamar a polícia imediatamente no ambiente de trabalho"
+        ],
+        "resposta": "Solicitar identificação e orientar conforme procedimento",
+        "nivel": "medio",
+        "id": 208,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Como a recepcionista deve agir em uma situação de emergência (ex.: incêndio)?",
+        "opcoes": [
+          "Acionar o alarme, seguir o plano de emergência e orientar as pessoas",
+          "Sair correndo sem avisar no ambiente de trabalho",
+          "Esconder-se na recepção no ambiente de trabalho",
+          "Continuar atendendo telefone normalmente no ambiente de trabalho"
+        ],
+        "resposta": "Acionar o alarme, seguir o plano de emergência e orientar as pessoas",
+        "nivel": "medio",
+        "id": 209,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a importância da discrição para a recepcionista?",
+        "opcoes": [
+          "Não divulgar informações confidenciais da empresa ou de funcionários",
+          "Compartilhar informações nas redes sociais no ambiente de trabalho",
+          "Contar para os colegas sobre visitantes no ambiente de trabalho",
+          "Ignorar segredos da empresa no ambiente de trabalho"
+        ],
+        "resposta": "Não divulgar informações confidenciais da empresa ou de funcionários",
+        "nivel": "medio",
+        "id": 210,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Como proceder se um visitante se recusar a se identificar?",
+        "opcoes": [
+          "Explicar a política de segurança e, se persistir, não autorizar o acesso",
+          "Permitir entrada mesmo assim no ambiente de trabalho conforme as especificações técnicas",
+          "Chamar a polícia imediatamente no ambiente de trabalho conforme as especificações técnicas",
+          "Ignorar e deixar passar no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Explicar a política de segurança e, se persistir, não autorizar o acesso",
+        "nivel": "medio",
+        "id": 211,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a conduta ao receber um fornecedor sem agendamento prévio?",
+        "opcoes": [
+          "Consultar o responsável pela área antes de autorizar a entrada",
+          "Recusar imediatamente no ambiente de trabalho",
+          "Deixar entrar sem aviso no ambiente de trabalho",
+          "Encaminhar diretamente ao estoque no ambiente de trabalho"
+        ],
+        "resposta": "Consultar o responsável pela área antes de autorizar a entrada",
+        "nivel": "medio",
+        "id": 212,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que fazer quando sistema de registro de visitantes estiver fora do ar?",
+        "opcoes": [
+          "Utilizar plano de contingência (registro manual) e comunicar TI",
+          "Liberar todos sem registro no ambiente de trabalho conforme as especificações técnicas",
+          "Fechar a recepção no ambiente de trabalho conforme as especificações técnicas",
+          "Deixar de atender visitantes no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Utilizar plano de contingência (registro manual) e comunicar TI",
+        "nivel": "medio",
+        "id": 213,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Como deve ser o atendimento a uma pessoa com deficiência?",
+        "opcoes": [
+          "Oferecer ajuda de forma respeitosa e perguntar como pode auxiliar",
+          "Ignorar para não constranger no ambiente de trabalho",
+          "Tocar na pessoa sem permissão no ambiente de trabalho",
+          "Falar em tom muito alto no ambiente de trabalho"
+        ],
+        "resposta": "Oferecer ajuda de forma respeitosa e perguntar como pode auxiliar",
+        "nivel": "medio",
+        "id": 214,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a postura correta ao atender um cliente que já está sendo atendido por outro funcionário?",
+        "opcoes": [
+          "Pedir que aguarde um momento e informar que logo será atendido",
+          "Interromper o atendimento anterior no ambiente de trabalho",
+          "Ignorar o cliente no ambiente de trabalho",
+          "Encaminhar para outro setor sem explicação no ambiente de trabalho"
+        ],
+        "resposta": "Pedir que aguarde um momento e informar que logo será atendido",
+        "nivel": "medio",
+        "id": 215,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que deve constar em um recado de telefone anotado pela recepcionista?",
+        "opcoes": [
+          "Nome do contato, telefone, data, hora e assunto",
+          "Apenas o nome no ambiente de trabalho",
+          "Apenas o telefone no ambiente de trabalho",
+          "Nada, é melhor transmitir verbalmente"
+        ],
+        "resposta": "Nome do contato, telefone, data, hora e assunto",
+        "nivel": "dificil",
+        "id": 216,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em relação ao uso do telefone celular durante o expediente, a recepcionista deve:?",
+        "opcoes": [
+          "Evitar uso pessoal para não prejudicar o atendimento",
+          "Usar livremente no ambiente de trabalho",
+          "Atender apenas chamadas importantes com discrição",
+          "Deixar o celular sempre à vista no ambiente de trabalho"
+        ],
+        "resposta": "Evitar uso pessoal para não prejudicar o atendimento",
+        "nivel": "dificil",
+        "id": 217,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Dentro dos procedimentos técnicos, como proceder ao receber uma ligação de telemarketing?",
+        "opcoes": [
+          "Agradecer e informar que não há interesse, desligando educadamente",
+          "Gritar e desligar no ambiente de trabalho",
+          "Transferir para qualquer ramal no ambiente de trabalho",
+          "Atender normalmente e passar informações no ambiente de trabalho"
+        ],
+        "resposta": "Agradecer e informar que não há interesse, desligando educadamente",
+        "nivel": "dificil",
+        "id": 218,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a atitude correta ao perceber que um visitante está perdido nas dependências?",
+        "opcoes": [
+          "Oferecer acompanhamento ou orientação clara sobre o caminho",
+          "Ignorar (procedimento padrão) conforme as especificações técnicas",
+          "Dar instruções vagas no ambiente de trabalho conforme as especificações técnicas",
+          "Chamar a segurança no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Oferecer acompanhamento ou orientação clara sobre o caminho",
+        "nivel": "dificil",
+        "id": 219,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que fazer se um funcionário solicitar que a recepcionista minta sobre sua presença?",
+        "opcoes": [
+          "Recusar educadamente, explicando que não pode mentir",
+          "Atender ao pedido no ambiente de trabalho",
+          "Dizer que o funcionário não trabalha mais no ambiente de trabalho",
+          "Ignorar a solicitação no ambiente de trabalho"
+        ],
+        "resposta": "Recusar educadamente, explicando que não pode mentir",
+        "nivel": "dificil",
+        "id": 220,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "Dentro dos procedimentos técnicos, como deve ser a comunicação com colegas de trabalho na frente de visitantes?",
+        "opcoes": [
+          "Profissional e discreta, evitando assuntos particulares",
+          "Falar alto sobre problemas internos no ambiente de trabalho",
+          "Usar gírias e brincadeiras no ambiente de trabalho",
+          "Ignorar os colegas no ambiente de trabalho"
+        ],
+        "resposta": "Profissional e discreta, evitando assuntos particulares",
+        "nivel": "dificil",
+        "id": 221,
+        "categoria": "Recepcionista",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a conduta ao identificar um pacote suspeito na recepção?",
+        "opcoes": [
+          "Não tocar, isolar a área e acionar segurança",
+          "Abrir para verificar no ambiente de trabalho",
+          "Jogar fora no ambiente de trabalho",
+          "Ignorar (procedimento padrão)"
+        ],
+        "resposta": "Não tocar, isolar a área e acionar segurança",
+        "nivel": "dificil",
+        "id": 222,
+        "categoria": "Recepcionista",
+        "correta": 0
+      }
+    ],
+    "Bombeiro Civil": [
+      {
+        "pergunta": "Qual o número de telefone do corpo de bombeiros?",
+        "opcoes": [
+          "193",
+          "190",
+          "192",
+          "191"
+        ],
+        "resposta": "193",
+        "nivel": "facil",
+        "id": 223,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual é a primeira ação ao identificar um princípio de incêndio?",
+        "opcoes": [
+          "Acionar o alarme e tentar combater com extintor se seguro",
+          "Correr para fora no ambiente de trabalho",
+          "Guardar pertences no ambiente de trabalho",
+          "Desligar o disjuntor geral no ambiente de trabalho"
+        ],
+        "resposta": "Acionar o alarme e tentar combater com extintor se seguro",
+        "nivel": "facil",
+        "id": 224,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual extintor é indicado para incêndio em materiais elétricos energizados?",
+        "opcoes": [
+          "CO2 ou Pó Químico Seco (Classe C)",
+          "Água (procedimento padrão)",
+          "Espuma (procedimento padrão)",
+          "Pó Químico Seco (Classe B)"
+        ],
+        "resposta": "CO2 ou Pó Químico Seco (Classe C)",
+        "nivel": "facil",
+        "id": 225,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa a sigla pass para uso do extintor?",
+        "opcoes": [
+          "Puxar, Apontar, Squeeze (apertar), Sweep (varrer)",
+          "Pegar, Acionar, Soltar, Sair no ambiente de trabalho",
+          "Pressionar, Armar, Sacar, Suprimir no ambiente de trabalho",
+          "Puxar, Armar, Socorrer, Sinalizar no ambiente de trabalho"
+        ],
+        "resposta": "Puxar, Apontar, Squeeze (apertar), Sweep (varrer)",
+        "nivel": "facil",
+        "id": 226,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em uma evacuação, o bombeiro civil deve:?",
+        "opcoes": [
+          "Orientar as pessoas para as saídas de emergência",
+          "Sair na frente correndo no ambiente de trabalho",
+          "Empurrar as pessoas no ambiente de trabalho",
+          "Usar o elevador no ambiente de trabalho"
+        ],
+        "resposta": "Orientar as pessoas para as saídas de emergência",
+        "nivel": "facil",
+        "id": 227,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual o procedimento ao encontrar uma pessoa desacordada em um incêndio?",
+        "opcoes": [
+          "Remover a pessoa para local seguro e iniciar primeiros socorros",
+          "Abandonar (procedimento padrão) conforme as especificações técnicas",
+          "Tentar reanimar no local no ambiente de trabalho conforme as especificações técnicas",
+          "Chamar apenas os bombeiros e aguardar no ambiente de trabalho"
+        ],
+        "resposta": "Remover a pessoa para local seguro e iniciar primeiros socorros",
+        "nivel": "facil",
+        "id": 228,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é o triângulo do fogo?",
+        "opcoes": [
+          "Combustível, comburente e calor",
+          "Água, espuma e pó",
+          "Oxigênio, nitrogênio e carbono",
+          "Fumaça, chama e calor"
+        ],
+        "resposta": "Combustível, comburente e calor",
+        "nivel": "facil",
+        "id": 229,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual a conduta correta ao usar uma mangueira de incêndio (hidrante)?",
+        "opcoes": [
+          "Verificar se há água, posicionar-se e direcionar o jato à base do fogo",
+          "Apontar para o alto no ambiente de trabalho conforme as especificações técnicas",
+          "Usar sozinho sem apoio no ambiente de trabalho conforme as especificações técnicas",
+          "Molhar primeiro o teto no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Verificar se há água, posicionar-se e direcionar o jato à base do fogo",
+        "nivel": "facil",
+        "id": 230,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em relação às rotas de fuga, o bombeiro civil deve:?",
+        "opcoes": [
+          "Manter sempre desobstruídas e sinalizadas",
+          "Bloquear para evitar acesso no ambiente de trabalho",
+          "Ignorar a sinalização no ambiente de trabalho",
+          "Usar como depósito no ambiente de trabalho"
+        ],
+        "resposta": "Manter sempre desobstruídas e sinalizadas",
+        "nivel": "facil",
+        "id": 231,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a classificação do fogo envolvendo líquidos inflamáveis (gasolina, álcool)?",
+        "opcoes": [
+          "Classe B",
+          "Classe A",
+          "Classe C",
+          "Classe D"
+        ],
+        "resposta": "Classe B",
+        "nivel": "medio",
+        "id": 232,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Ao perceber cheiro de gás em um ambiente, o bombeiro civil deve:?",
+        "opcoes": [
+          "Não acionar interruptores, abrir janelas e evacuar",
+          "Acender um isqueiro para localizar o vazamento",
+          "Ligar o exaustor no ambiente de trabalho",
+          "Usar o telefone no local no ambiente de trabalho"
+        ],
+        "resposta": "Não acionar interruptores, abrir janelas e evacuar",
+        "nivel": "medio",
+        "id": 233,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa a classe de incêndio 'd'?",
+        "opcoes": [
+          "Metais combustíveis",
+          "Líquidos inflamáveis",
+          "Equipamentos elétricos energizados",
+          "Materiais sólidos comuns"
+        ],
+        "resposta": "Metais combustíveis",
+        "nivel": "medio",
+        "id": 234,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a distância mínima que os extintores devem ser instalados do chão?",
+        "opcoes": [
+          "Entre 0,20m e 1,20m do piso",
+          "No chão no ambiente de trabalho",
+          "Acima de 2 metros",
+          "Não há exigência no ambiente de trabalho"
+        ],
+        "resposta": "Entre 0,20m e 1,20m do piso",
+        "nivel": "medio",
+        "id": 235,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual o procedimento correto em caso de primeiros socorros para queimadura?",
+        "opcoes": [
+          "Resfriar com água corrente em temperatura ambiente por alguns minutos",
+          "Passar manteiga no ambiente de trabalho conforme as especificações técnicas",
+          "Estourar bolhas no ambiente de trabalho conforme as especificações técnicas",
+          "Aplicar gelo diretamente no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Resfriar com água corrente em temperatura ambiente por alguns minutos",
+        "nivel": "medio",
+        "id": 236,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em uma evacuação, onde os bombeiros civis devem se posicionar?",
+        "opcoes": [
+          "Nos pontos de encontro e rotas de fuga para orientar",
+          "Dentro do prédio em chamas no ambiente de trabalho",
+          "No telhado no ambiente de trabalho",
+          "Na entrada principal apenas no ambiente de trabalho"
+        ],
+        "resposta": "Nos pontos de encontro e rotas de fuga para orientar",
+        "nivel": "medio",
+        "id": 237,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Considerando contexto operacional, qual a validade da recarga do extintor de incêndio?",
+        "opcoes": [
+          "Depende do tipo, mas geralmente anual ou conforme norma",
+          "5 anos no ambiente de trabalho conforme as especificações técnicas",
+          "10 anos no ambiente de trabalho conforme as especificações técnicas",
+          "Nunca precisa recarregar no ambiente de trabalho"
+        ],
+        "resposta": "Depende do tipo, mas geralmente anual ou conforme norma",
+        "nivel": "medio",
+        "id": 238,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que deve ser feito com o extintor após uso parcial?",
+        "opcoes": [
+          "Enviar para recarga imediatamente, mesmo que tenha sobrado carga",
+          "Guardar para usar depois no ambiente de trabalho conforme as especificações técnicas",
+          "Descartar (procedimento padrão) conforme as especificações técnicas",
+          "Deixar no local no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Enviar para recarga imediatamente, mesmo que tenha sobrado carga",
+        "nivel": "medio",
+        "id": 239,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Dentro dos procedimentos técnicos, como agir em caso de incêndio em uma panela com óleo (cozinha)?",
+        "opcoes": [
+          "Abrafar com uma tampa ou pano molhado, nunca jogar água",
+          "Jogar água no ambiente de trabalho conforme as especificações técnicas",
+          "Soprar (procedimento padrão) conforme as especificações técnicas",
+          "Usar extintor de água no ambiente de trabalho"
+        ],
+        "resposta": "Abrafar com uma tampa ou pano molhado, nunca jogar água",
+        "nivel": "dificil",
+        "id": 240,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a função do chuveiro automático (sprinkler) em um edifício?",
+        "opcoes": [
+          "Ativar automaticamente no calor do fogo e liberar água",
+          "Molhar o telhado no ambiente de trabalho",
+          "Resfriar o ar no ambiente de trabalho",
+          "Acionar o alarme apenas no ambiente de trabalho"
+        ],
+        "resposta": "Ativar automaticamente no calor do fogo e liberar água",
+        "nivel": "dificil",
+        "id": 241,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa brigada de incêndio?",
+        "opcoes": [
+          "Grupo treinado para ações iniciais de combate a incêndio e evacuação",
+          "Equipe que constrói edifícios no ambiente de trabalho conforme as especificações técnicas",
+          "Polícia especializada no ambiente de trabalho conforme as especificações técnicas",
+          "Empresa de extintores no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Grupo treinado para ações iniciais de combate a incêndio e evacuação",
+        "nivel": "dificil",
+        "id": 242,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual a conduta ao encontrar uma porta corta-fogo aberta?",
+        "opcoes": [
+          "Fechar imediatamente, pois deve permanecer fechada para conter fogo e fumaça",
+          "Deixar aberta para ventilação no ambiente de trabalho conforme as especificações técnicas",
+          "Remover a porta no ambiente de trabalho conforme as especificações técnicas",
+          "Ignorar (procedimento padrão) conforme as especificações técnicas"
+        ],
+        "resposta": "Fechar imediatamente, pois deve permanecer fechada para conter fogo e fumaça",
+        "nivel": "dificil",
+        "id": 243,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em relação às inspeções periódicas, o bombeiro civil deve:?",
+        "opcoes": [
+          "Verificar extintores, hidrantes, iluminação de emergência e rotas de fuga",
+          "Apenas olhar os extintores no ambiente de trabalho conforme as especificações técnicas",
+          "Não fazer inspeções no ambiente de trabalho conforme as especificações técnicas",
+          "Somente testar o alarme no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Verificar extintores, hidrantes, iluminação de emergência e rotas de fuga",
+        "nivel": "dificil",
+        "id": 244,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Dentro dos procedimentos técnicos, como deve ser o transporte de uma vítima com suspeita de trauma na coluna?",
+        "opcoes": [
+          "Imobilizar a vítima e evitar movimentos bruscos",
+          "Levantar pelos braços no ambiente de trabalho",
+          "Colocar sentada no ambiente de trabalho",
+          "Arrastar pelo chão no ambiente de trabalho"
+        ],
+        "resposta": "Imobilizar a vítima e evitar movimentos bruscos",
+        "nivel": "dificil",
+        "id": 245,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "De acordo com os protocolos de segurança, qual o objetivo do plano de emergência contra incêndio?",
+        "opcoes": [
+          "Estabelecer procedimentos para prevenção, alarme, evacuação e combate inicial",
+          "Multar os funcionários no ambiente de trabalho conforme as especificações técnicas",
+          "Treinar apenas os bombeiros civis no ambiente de trabalho conforme as especificações técnicas",
+          "Decorar o edifício no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Estabelecer procedimentos para prevenção, alarme, evacuação e combate inicial",
+        "nivel": "dificil",
+        "id": 246,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      },
+      {
+        "pergunta": "Em caso de falta de luz, o bombeiro civil deve:?",
+        "opcoes": [
+          "Acionar a iluminação de emergência e orientar as pessoas com calma",
+          "Entrar em pânico no ambiente de trabalho conforme as especificações técnicas",
+          "Usar o celular como lanterna no ambiente de trabalho conforme as especificações técnicas",
+          "Gritar por ajuda no ambiente de trabalho conforme as especificações técnicas"
+        ],
+        "resposta": "Acionar a iluminação de emergência e orientar as pessoas com calma",
+        "nivel": "dificil",
+        "id": 247,
+        "categoria": "Bombeiro Civil",
+        "correta": 0
+      }
+    ]
+  }
+}
